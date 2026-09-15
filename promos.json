@@ -1,0 +1,4335 @@
+{
+  "app": "cheapy",
+  "formatVersion": 1,
+  "generatedAt": "2026-09-15T19:42:35.356Z",
+  "source": "https://www.kaskasanbuddies.com.ph/promos",
+  "count": 64,
+  "promos": [
+    {
+      "id": "d45e12d9a822c5af4e1e1beb",
+      "name": "50% OFF at Nono's",
+      "merchant": {
+        "name": "Nono's",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/915bfdd6-e67e-466f-93df-57693190b705.png"
+      },
+      "categories": [
+        "50% Off",
+        "Dining",
+        "Restaurants"
+      ],
+      "start": "2026-09-13T16:00:00.000Z",
+      "end": "2026-10-01T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "UB",
+          "name": "UnionBank of the Philippines",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/ub-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "UnionBank Miles+ World Mastercard",
+          "bank": "UB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/01a8953d-6d6a-4013-ab1e-cd2d6ae51781.png"
+        },
+        {
+          "name": "UnionBank Miles+ Visa Signature",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/fc84e39e-9125-4c47-8d35-389fbecb9fc7.png"
+        },
+        {
+          "name": "UnionBank Reserve Visa Infinite",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/27232407-b8b4-4c89-a6dd-ea4403a3c444.png"
+        },
+        {
+          "name": "UnionBank Reserve World Elite Mastercard",
+          "bank": "UB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/5632f694-8513-494d-9694-6270ef915bab.png"
+        },
+        {
+          "name": "UnionBank Miles+ Visa Platinum",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/e89ef49a-5e1a-43d0-8ba2-50fc747657d5.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF with minimum spend of ₱3,000 and maximum discount of ₱2,500 on total food and beverage bill\n\n---\n# Other Details\n• Additional service charges and local taxes may still apply, unless the partner merchant offering the Promo has specified otherwise in their own terms and conditions\n---\n# Location\n• Check the link below to see list of participating branches\n---\n# Links\nhttps://www.unionbankph.com/nonos\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/f5b3d6bf-49cc-4312-8a31-58ef4e0a2b5c.webp",
+      "status": "active"
+    },
+    {
+      "id": "6a132282409c246d41d707a3",
+      "name": "50% OFF at Mesa",
+      "merchant": {
+        "name": "Mesa",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/04f422f2-8cc9-4bab-acf7-bfbad473c399.png"
+      },
+      "categories": [
+        "50% Off",
+        "Dining"
+      ],
+      "start": "2026-05-19T16:00:00.000Z",
+      "end": "2026-11-30T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "BPI",
+          "name": "Bank of the Philippine Islands",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/bpi-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "BPI Rewards Mastercard",
+          "bank": "BPI",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/737e448d-0516-4b86-92dc-9878639dcfe5.png"
+        },
+        {
+          "name": "BPI Gold Rewards Mastercard",
+          "bank": "BPI",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/aea253fa-c9ca-49e1-a45e-a43fdfa82d49.png"
+        },
+        {
+          "name": "BPI Platinum Rewards Mastercard",
+          "bank": "BPI",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/8977ed74-fd8a-4c0a-885c-1aacf2052909.png"
+        },
+        {
+          "name": "BPI Amore Cashback Visa",
+          "bank": "BPI",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/21a3aed8-0e19-4f5f-903a-33611d7afcb7.png"
+        },
+        {
+          "name": "BPI Amore Cashback Visa Platinum",
+          "bank": "BPI",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/bcccd0f2-dcc9-4fd6-b3e4-0642730ce608.png"
+        },
+        {
+          "name": "Robinsons Cashback Visa Platinum",
+          "bank": "BPI",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/8a4580de-6eec-49cb-8ca1-9ce3add9a33f.png"
+        },
+        {
+          "name": "BPI Petron Mastercard",
+          "bank": "BPI",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/7b79ad96-e894-4615-a0bc-fc802b4ba60e.png"
+        },
+        {
+          "name": "BPI Edge Mastercard",
+          "bank": "BPI",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/bf05c4c0-79f1-4228-91e2-7f7738da06eb.png"
+        },
+        {
+          "name": "BPI DOS Mastercard",
+          "bank": "BPI",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/c68c68be-9c69-4866-848d-d2735db2f615.png"
+        },
+        {
+          "name": "BPI Visa Signature ",
+          "bank": "BPI",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/75ae15ab-414d-446d-8fbc-7754603cd718.png"
+        },
+        {
+          "name": "BPI Robinsons Cashback Mastercard",
+          "bank": "BPI",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/4d467716-048e-4dff-b828-8c8c0dc419ab.png"
+        },
+        {
+          "name": "PRU Life UK Classic Mastercard",
+          "bank": "BPI",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/1e40dc53-5e96-4843-bf23-5cc265a85f5d.png"
+        },
+        {
+          "name": "PRU Life UK Platinum Mastercard",
+          "bank": "BPI",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/218498e3-81b1-4988-92d6-5974b66a9f9f.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF on a MESA set meal\n• Valid for dine-in, take-out, and pick-up transactions\n• Set Meal includes:\n   1 Chicken Sisig\n   1 Malunggay Molo Soup\n   1 Shrimp in Chili Sauce\n   1 Crispy Bagnet Kare-Kare\n   1 Gising-gising \n   1 Palabok \n   5 pcs of Garlic Rice\n   5 pcs of Mango Panna Cotta\n   1 pc Carafe of Iced Tea\n<i>• Valid for multiple set meals in one card payment</i>\n---\n# Location\n• Check the link below to see list of participating branches\n---\n# Links\nhttps://www.bpi.com.ph/personal/rewards-and-promotions/promos/mesa-promo",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/338380db-2b08-4b6d-82b4-c52ee5477bcb.webp",
+      "status": "active"
+    },
+    {
+      "id": "74c35ab5ac4089ca8b5d8a17",
+      "name": "50% OFF at Happy Garden Café",
+      "merchant": {
+        "name": "Happy Garden Café",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/b8e8644d-6b53-4384-a50c-2df36ed7e316.png"
+      },
+      "categories": [
+        "50% Off",
+        "Dining",
+        "Restaurants"
+      ],
+      "start": "2026-09-06T16:00:00.000Z",
+      "end": "2026-10-07T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "RCBC",
+          "name": "Rizal Commercial Banking Corporation",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/rcbc-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "RCBC World Mastercard",
+          "bank": "RCBC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/85116093-04df-48b8-9f88-2469bf94cff5.png"
+        },
+        {
+          "name": "RCBC Visa Infinite",
+          "bank": "RCBC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/a173375c-c7f2-4215-a1a8-276395a7db8e.png"
+        },
+        {
+          "name": "RCBC Hexagon Club Priority Mastercard",
+          "bank": "RCBC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/4a4a43f8-a5c8-4ad7-9dfb-b4d1307f41a9.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF with minimum spend of ₱5,000 and maximum discount of ₱5,000 on total bill\n• Valid for dine-in transactions only\n---\n# Other Details\n• Service charge is excluded from discount computation\n---\n# Location\n• 56 Jupiter, Makati City\n• Rizal Drive cor. 32nd St. &, 5th Ave, Taguig\n---\n# Links\nhttps://rcbccredit.com/promos/BHAB0826\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/3f19e516-9764-425f-9f13-f6e46b292f38.webp",
+      "status": "active"
+    },
+    {
+      "id": "7bf56a0f640135dfb53458fd",
+      "name": "50% OFF at Domino's Pizza",
+      "merchant": {
+        "name": "Domino's Pizza",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/99b4d7c0-f577-42b6-8dd8-c69f25fc31c2.jpg"
+      },
+      "categories": [
+        "50% Off",
+        "Dining",
+        "Restaurants"
+      ],
+      "start": "2026-07-31T16:00:00.000Z",
+      "end": "2026-10-31T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "MBTC",
+          "name": "Metrobank",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/metrobank-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "Metrobank M Free Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/7d8251a6-c153-45d6-965a-03082c08a066.png"
+        },
+        {
+          "name": "Metrobank Titanium Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/a2268ace-26d2-4fdd-8a1a-8a82fad94c1a.png"
+        },
+        {
+          "name": "Metrobank Rewards Plus Visa Platinum",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/e68ce51d-32b7-4d65-9d9a-58c535b87d4c.png"
+        },
+        {
+          "name": "Metrobank Cashback Visa Platinum",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/c027110b-b8fb-4577-bf25-46c59dc35412.png"
+        },
+        {
+          "name": "Metrobank Platinum Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/9903bbe4-d738-4eb0-8a7a-d2c117356c18.png"
+        },
+        {
+          "name": "Metrobank Toyota Platinum Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/d87697f6-e7d8-470e-84c6-6e1336e10c6a.png"
+        },
+        {
+          "name": "Metrobank Travel Signature Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/ed200da3-4283-4b53-8a4d-1ccd0d0196bd.webp"
+        },
+        {
+          "name": "Metrobank World Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/2a138f81-9f14-4436-a0c3-675e73911896.png"
+        },
+        {
+          "name": "Metrobank Femme Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/7e65ae61-5a20-4f2a-9857-be43f8e8aad1.png"
+        },
+        {
+          "name": "Metrobank Femme Signature Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/59e3e7ad-6a2e-4cc8-a8f9-ef93fb13d7e9.png"
+        },
+        {
+          "name": "Metrobank Vantage Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/2c6693ce-fcd9-4a4c-a893-d85a31bd8f95.png"
+        },
+        {
+          "name": "Metrobank Vantage Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/7d75c534-13f3-4d73-8100-c334b2af15b8.png"
+        },
+        {
+          "name": "Metrobank Travel Platinum Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/95a7d4f1-6537-4815-b550-bf25239c730f.png"
+        },
+        {
+          "name": "Metrobank Toyota Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/6c885d37-7e7a-4035-9769-5a9bdc22b644.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF on select pizzas (medium and family size)\n\n<strong>Classic Pizzas:</strong>\n- Bacon & Mushroom\n- Cheese Mania\n- Ham & Cheese\n- Hawaiian\n\n<strong>Juan's Choice:</strong>\n\n- Mabuhay!\n- Oh My Gulay (OMG!)\n\n<strong>Premium:</strong>\n- Beef and Mushroom Melt\n\n• Valid for dine-in and take-out transactions\n---\n# Other Details\n• Promo not applicable for orders from third-party food delivery services\n\n---\n# Location\n• Check the link below to see list of participating branches\n---\n# Links\nhttps://www.metrobank.com.ph/promos/discounts-dominos-pizza\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/9d10de33-f37c-4a29-b8e7-9e807aa11c74.webp",
+      "status": "active"
+    },
+    {
+      "id": "6a1d08548f5a6ae149cc976a",
+      "name": "50% OFF at Spectrum",
+      "merchant": {
+        "name": "Spectrum",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/583af60f-6cc6-483a-a383-39918ca62720.jpg"
+      },
+      "categories": [
+        "50% Off",
+        "Dining"
+      ],
+      "start": "2026-05-19T16:00:00.000Z",
+      "end": "2026-11-30T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "HSBC",
+          "name": "HSBC Philippines",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/2ee7e449-0b86-40b7-b9df-5f67514ec7db.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "HSBC Live+ Visa Signature",
+          "bank": "HSBC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/58ffac9d-759a-45c8-bad0-bd707d725df3.png"
+        },
+        {
+          "name": "HSBC Red Platinum Mastercard",
+          "bank": "HSBC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/e5c0cd74-c8c4-44e4-8cb5-02353f670be2.png"
+        },
+        {
+          "name": "HSBC Cash Back Gold Visa",
+          "bank": "HSBC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/6c734de5-2f1b-43b9-af55-329f04d92a00.png"
+        },
+        {
+          "name": "HSBC Rebate Visa Platinum",
+          "bank": "HSBC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/7d5f18c2-4966-464d-baf3-71df59ba7c9e.png"
+        },
+        {
+          "name": "HSBC Premier Mastercard",
+          "bank": "HSBC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/39411db4-ddea-4b3f-b494-d3f1a164ed68.png"
+        },
+        {
+          "name": "HSBC Premier Travel Mastercard",
+          "bank": "HSBC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/b8f6c636-3484-4e14-bef5-933301e4ce48.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF on lunch and dinner buffet with minimum of two (2) and maximum of ten (10) diners\n\n• Valid for dine-in transactions only\n\n• Advance reservation is required\n---\n# Other Details\n• All additional fees including service charges, delivery, and taxes will be charged to the cardholder\n------\n# Location\n• Fairmont Hotel, Makati City\n---\n# Links\nhttps://offers.hsbc.com.ph/offers/171/fairmont-makati-spectrum\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/76509dca-a095-47f6-aca0-93b93c37bcea.webp",
+      "status": "active"
+    },
+    {
+      "id": "722393a785281a97f409115f",
+      "name": "50% OFF at Giwon",
+      "merchant": {
+        "name": "Giwon Korean Steakhouse",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/a30974b9-de95-4e5d-b48a-9ec1c258e100.jpg"
+      },
+      "categories": [
+        "50% Off",
+        "Dining",
+        "Restaurants"
+      ],
+      "start": "2026-08-31T16:00:00.000Z",
+      "end": "2026-10-30T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "EW",
+          "name": "EastWest Bank",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/ew-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "EastWest Platinum Mastercard",
+          "bank": "EW",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/10c0b174-904f-457c-8fa5-97f3d8139b2a.png"
+        },
+        {
+          "name": "EastWest Singapore Airlines KrisFlyer Platinum Mastercard",
+          "bank": "EW",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/235ff04c-6c97-4e6b-88b5-c2fd11f24692.png"
+        },
+        {
+          "name": "EastWest Singapore Airlines KrisFlyer World Mastercard",
+          "bank": "EW",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/6c6196db-79e8-4653-a735-833d87d52c71.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF with minimum spend of ₱10,000 and maximum discount of ₱7,500 on total food and beverage bill\n• Advance reservation is recommended\n---\n# Other Details\n• Excludes Alcoholic Beverages and Lunch Menu\n• All additional fees including service charges, delivery, and taxes will be charged to the cardholder\n---\n# Location\n• 2nd Floor, Mitsukoshi Mall, 7th Avenue 36th Street, BGC, Taguig City\n• Ground Floor, Park McKinley West, Lawton Avenue, Taguig City\n---\n# Links\nhttps://www.eastwestbanker.com/promos/50-savings-giwon-korean-steakhouse\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/f46d3ea2-f166-4a6f-bf3c-d43d0c6a4b83.webp",
+      "status": "active"
+    },
+    {
+      "id": "83937588844f61a478e4503a",
+      "name": "50% OFF at HEAT",
+      "merchant": {
+        "name": "HEAT by EDSA Shangri-La",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/f4f75689-cae4-483b-830e-3d5a3dd20aa1.png"
+      },
+      "categories": [
+        "50% Off",
+        "Dining",
+        "Restaurants"
+      ],
+      "start": "2026-09-06T16:00:00.000Z",
+      "end": "2026-10-31T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "SECB",
+          "name": "Security Bank Philippines",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/secb-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "Security Bank Platinum Mastercard",
+          "bank": "SECB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/b2026e36-621e-4f31-b4ec-eba3ac3a8bd9.png"
+        },
+        {
+          "name": "Security Bank World Mastercard",
+          "bank": "SECB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/82cc085f-2afc-49b4-bc03-f29bac6289eb.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF on lunch and dinner buffet with minimum of two (2) and maximum of six (6) diners\n• Advance reservation is required\n---\n# Other Details\n• Cardholder must be present and part of the dining party to be able to avail the discount\n• Proof of card ownership might be requested for verification\n---\n# Location\n• EDSA Shangri-La, Ortigas Centre, Mandaluyong City\n---\n# Links\nhttps://www.securitybank.com/promos/dining/heat/\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/205ff62d-169b-4d99-ae19-be5b4e20b50c.webp",
+      "status": "active"
+    },
+    {
+      "id": "18b9bf239da07b0c74fa5bba",
+      "name": "50% OFF at Silver Garden",
+      "merchant": {
+        "name": "Silver Garden",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/7a96403b-3131-40b8-8fb9-f33b65a39d41.png"
+      },
+      "categories": [
+        "50% Off",
+        "Dining",
+        "Restaurants"
+      ],
+      "start": "2026-08-16T16:00:00.000Z",
+      "end": "2026-09-16T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "CBC",
+          "name": "Chinabank",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/chinabank-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "Chinabank Freedom Mastercard",
+          "bank": "CBC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/8fbf1241-2b99-4a8a-a98b-f2d8aec3cc34.png"
+        },
+        {
+          "name": "Chinabank Cash Rewards Mastercard",
+          "bank": "CBC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/b0842734-ea93-4682-861e-c2b1f1bf51d4.png"
+        },
+        {
+          "name": "Chinabank Platinum Mastercard",
+          "bank": "CBC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/74377d18-7846-463b-9274-43f5f4736016.png"
+        },
+        {
+          "name": "Chinabank World Mastercard",
+          "bank": "CBC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/bd1aaa55-280a-4faf-a3d5-8880682a347f.png"
+        },
+        {
+          "name": "Chinabank Wealth World Elite Mastercard",
+          "bank": "CBC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/52536d6a-5e09-4266-bab3-c3d7ab8831b1.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF with minimum spend of ₱5,000 and maximum discount of ₱5,000 on total food bill\n• Valid for dine-in transactions only\n• Advance reservation is required\n---\n# Other Details\n• Excludes beverages\n• Excludes Yum Cha, Peking Duck, and Baby Lobster \n• Service charge is excluded from discount computation\n• Payments via tap-to-pay contactless mobile payments are not allowed\n---\n# Location\n• Somerset - Dowell Tower Residences, 160 Valero st, cor Villar, Salcedo, Makati City\n---\n# Links\nhttps://www.chinabank.ph/50-percent-off-at-silver-garden-somerset-valero-makati\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/021457d9-934b-4cfe-b65e-ddefa00a35ca.webp",
+      "status": "active"
+    },
+    {
+      "id": "6a17e5914595ada0e040e2e1",
+      "name": "Up to 58% OFF at Melo’s Steakhouse",
+      "merchant": {
+        "name": "Melo's Steakhouse",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/9561ce87-9c63-4a37-ba4f-230764a68738.jpg"
+      },
+      "categories": [
+        "50% Off",
+        "Dining"
+      ],
+      "start": "2026-04-30T16:00:00.000Z",
+      "end": "2027-02-28T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "UB",
+          "name": "UnionBank of the Philippines",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/ub-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "UnionBank Rewards Platinum Mastercard",
+          "bank": "UB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/5c666355-38b9-4b5b-99b3-6eeccd1efc43.png"
+        },
+        {
+          "name": "UnionBank Miles+ World Mastercard",
+          "bank": "UB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/01a8953d-6d6a-4013-ab1e-cd2d6ae51781.png"
+        },
+        {
+          "name": "UnionBank Cash Back Titanium Mastercard",
+          "bank": "UB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/338edf7c-2957-492e-8cb6-2acbc5c8ba52.png"
+        },
+        {
+          "name": "UnionBank U Platinum Mastercard",
+          "bank": "UB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/c1c9c367-6586-493f-ad88-3d963991bb7c.png"
+        },
+        {
+          "name": "UnionBank Lazada Mastercard",
+          "bank": "UB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/e1014edf-7416-40ac-b5c6-fc2377c7bc5b.png"
+        },
+        {
+          "name": "UnionBank Rewards Visa Platinum",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/dfc9d2b4-72ce-4738-bea3-b2fa59451ec5.png"
+        },
+        {
+          "name": "UnionBank Miles+ Visa Signature",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/fc84e39e-9125-4c47-8d35-389fbecb9fc7.png"
+        },
+        {
+          "name": "UnionBank Cash Back Visa Platinum",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/56de5993-df73-4a35-92bd-a16c3baa88fd.png"
+        },
+        {
+          "name": "UnionBank U Visa Platinum",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/f25408fc-43ef-43e8-8227-7ca61ec2662b.png"
+        },
+        {
+          "name": "UnionBank Shell Power Visa Platinum",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/35d877a1-8f86-411e-a841-b8706aa440e3.png"
+        },
+        {
+          "name": "UnionBank Mercury Visa",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/d4b55e5c-d50a-4509-a7e7-d03f5241844c.png"
+        },
+        {
+          "name": "UnionBank S&R Visa Platinum",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/84e6143d-f467-4235-806a-93b69bab3f9b.png"
+        },
+        {
+          "name": "UnionBank Classic Visa",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/6fcc230a-a6da-4a68-bf68-b7a0c1f0ea7b.png"
+        },
+        {
+          "name": "UnionBank Gold Visa",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/9b72df99-c306-4b00-84d8-c526cb7f48c2.png"
+        },
+        {
+          "name": "UnionBank Gold Mastercard",
+          "bank": "UB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/321a3dbc-da1e-4a93-bbf9-c1fb3cd046ca.png"
+        },
+        {
+          "name": "UnionBank Visa Platinum (starts with 453248)​",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/2a84e29d-1e6e-4617-97bd-5126b29c2592.png"
+        },
+        {
+          "name": "UnionBank Platinum Mastercard (starts with 552097)​",
+          "bank": "UB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/0f732b90-dbb9-43d9-9809-f5a10c49f27e.png"
+        },
+        {
+          "name": "UnionBank Reserve Visa Infinite",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/27232407-b8b4-4c89-a6dd-ea4403a3c444.png"
+        },
+        {
+          "name": "UnionBank Reserve World Elite Mastercard",
+          "bank": "UB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/5632f694-8513-494d-9694-6270ef915bab.png"
+        },
+        {
+          "name": "UnionBank Miles+ Visa Platinum",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/e89ef49a-5e1a-43d0-8ba2-50fc747657d5.png"
+        },
+        {
+          "name": "UnionBank Visa Platinum",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/6ebc1140-1af8-434a-8a3e-4e4dfa92b788.png"
+        },
+        {
+          "name": "UnionBank Platinum Mastercard",
+          "bank": "UB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/965b48bf-1c73-4528-92e6-099e0dd9a930.png"
+        },
+        {
+          "name": "UnionBank Cebu Pacific Gold Visa",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/593801da-64fd-4f62-af61-73b9d17dc256.png"
+        },
+        {
+          "name": "UnionBank Cebu Pacific Visa Platinum",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/cb1158ff-4641-4959-8d5e-9db24bfc13f3.png"
+        },
+        {
+          "name": "UnionBank Go Rewards Gold Visa",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/80d0ff39-9bdb-4bf6-8855-7bd73fac1b63.png"
+        },
+        {
+          "name": "UnionBank Go Rewards Visa Platinum",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/cbd17ba5-168c-4ca1-af2e-b48177bb2627.png"
+        },
+        {
+          "name": "UnionBank PlayEveryday Visa",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/67caf911-10c1-4efa-a1f5-dd864c21914d.png"
+        },
+        {
+          "name": "⚯ UnionBank Assumption Alumni Association Visa",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/9c15a64c-7bd6-4735-a180-732472ebeb01.png"
+        },
+        {
+          "name": "⚯ UnionBank La Salle Greenhills Visa",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/c095e40c-848b-4932-ba1a-84386ffa53e3.png"
+        },
+        {
+          "name": "⚯ UnionBank De La Salle Alumni Visa",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/f74db405-edb4-4bb7-91f4-4a52b07bd4ed.png"
+        },
+        {
+          "name": "⚯ UnionBank Don Bosco Alumni Association Visa",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/8fb00582-24da-4d7e-adfb-400dc79e1b0f.png"
+        },
+        {
+          "name": "⚯ UnionBank University of the Philippines Alumni Association Visa",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/c5cd6456-db92-4f58-9023-7bec6b939979.png"
+        },
+        {
+          "name": "⚯ UnionBank Ateneo Alumni Association Visa",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/e5e335c5-793a-4175-8733-7bb9cd6e06c3.png"
+        },
+        {
+          "name": "⚯ UnionBank Southwestern University Alumni Foundation Visa",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/e53e5ccf-a369-448d-9867-3472537d9a88.png"
+        }
+      ],
+      "description": "# Promo Details\n• Up to 58% OFF on a Melo's 3-course steak set menu, good for 2 pax\n- Certified Angus Steak Set\n- Australian Wagyu Set\n- Japanese Wagyu Set\n\n• Up to six sets per transaction\n\n• Advance reservation is required\n---\n# Other Details\n• All additional fees including service charges, delivery, and taxes will be charged to the cardholder\n---\n# Location\n• Forbestown Center, Taguig City\n• South Triangle, Quezon City\n• Westgate Center, Muntinlupa City\n---\n# Links\nhttps://www.unionbankph.com/cards/credit-card/discounts-and-promos?id=8305\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/bde21fb9-97db-462c-88fa-c392c079e694.webp",
+      "status": "active"
+    },
+    {
+      "id": "69eb8bfeeeea8ca06805ec35",
+      "name": "50% OFF at Spectrum",
+      "merchant": {
+        "name": "Spectrum",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/583af60f-6cc6-483a-a383-39918ca62720.jpg"
+      },
+      "categories": [
+        "Dining",
+        "50% Off"
+      ],
+      "start": "2026-04-13T16:00:00.000Z",
+      "end": "2026-11-30T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "UB",
+          "name": "UnionBank of the Philippines",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/ub-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "UnionBank Rewards Platinum Mastercard",
+          "bank": "UB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/5c666355-38b9-4b5b-99b3-6eeccd1efc43.png"
+        },
+        {
+          "name": "UnionBank Miles+ World Mastercard",
+          "bank": "UB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/01a8953d-6d6a-4013-ab1e-cd2d6ae51781.png"
+        },
+        {
+          "name": "UnionBank Cash Back Titanium Mastercard",
+          "bank": "UB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/338edf7c-2957-492e-8cb6-2acbc5c8ba52.png"
+        },
+        {
+          "name": "UnionBank U Platinum Mastercard",
+          "bank": "UB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/c1c9c367-6586-493f-ad88-3d963991bb7c.png"
+        },
+        {
+          "name": "UnionBank Lazada Mastercard",
+          "bank": "UB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/e1014edf-7416-40ac-b5c6-fc2377c7bc5b.png"
+        },
+        {
+          "name": "UnionBank Rewards Visa Platinum",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/dfc9d2b4-72ce-4738-bea3-b2fa59451ec5.png"
+        },
+        {
+          "name": "UnionBank Miles+ Visa Signature",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/fc84e39e-9125-4c47-8d35-389fbecb9fc7.png"
+        },
+        {
+          "name": "UnionBank Cash Back Visa Platinum",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/56de5993-df73-4a35-92bd-a16c3baa88fd.png"
+        },
+        {
+          "name": "UnionBank U Visa Platinum",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/f25408fc-43ef-43e8-8227-7ca61ec2662b.png"
+        },
+        {
+          "name": "UnionBank Shell Power Visa Platinum",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/35d877a1-8f86-411e-a841-b8706aa440e3.png"
+        },
+        {
+          "name": "UnionBank Mercury Visa",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/d4b55e5c-d50a-4509-a7e7-d03f5241844c.png"
+        },
+        {
+          "name": "UnionBank S&R Visa Platinum",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/84e6143d-f467-4235-806a-93b69bab3f9b.png"
+        },
+        {
+          "name": "UnionBank Classic Visa",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/6fcc230a-a6da-4a68-bf68-b7a0c1f0ea7b.png"
+        },
+        {
+          "name": "UnionBank Gold Visa",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/9b72df99-c306-4b00-84d8-c526cb7f48c2.png"
+        },
+        {
+          "name": "UnionBank Gold Mastercard",
+          "bank": "UB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/321a3dbc-da1e-4a93-bbf9-c1fb3cd046ca.png"
+        },
+        {
+          "name": "UnionBank Visa Platinum (starts with 453248)​",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/2a84e29d-1e6e-4617-97bd-5126b29c2592.png"
+        },
+        {
+          "name": "UnionBank Platinum Mastercard (starts with 552097)​",
+          "bank": "UB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/0f732b90-dbb9-43d9-9809-f5a10c49f27e.png"
+        },
+        {
+          "name": "UnionBank Reserve Visa Infinite",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/27232407-b8b4-4c89-a6dd-ea4403a3c444.png"
+        },
+        {
+          "name": "UnionBank Reserve World Elite Mastercard",
+          "bank": "UB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/5632f694-8513-494d-9694-6270ef915bab.png"
+        },
+        {
+          "name": "UnionBank Miles+ Visa Platinum",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/e89ef49a-5e1a-43d0-8ba2-50fc747657d5.png"
+        },
+        {
+          "name": "UnionBank Visa Platinum",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/6ebc1140-1af8-434a-8a3e-4e4dfa92b788.png"
+        },
+        {
+          "name": "UnionBank Platinum Mastercard",
+          "bank": "UB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/965b48bf-1c73-4528-92e6-099e0dd9a930.png"
+        },
+        {
+          "name": "UnionBank Cebu Pacific Gold Visa",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/593801da-64fd-4f62-af61-73b9d17dc256.png"
+        },
+        {
+          "name": "UnionBank Cebu Pacific Visa Platinum",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/cb1158ff-4641-4959-8d5e-9db24bfc13f3.png"
+        },
+        {
+          "name": "UnionBank Go Rewards Gold Visa",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/80d0ff39-9bdb-4bf6-8855-7bd73fac1b63.png"
+        },
+        {
+          "name": "UnionBank Go Rewards Visa Platinum",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/cbd17ba5-168c-4ca1-af2e-b48177bb2627.png"
+        },
+        {
+          "name": "UnionBank PlayEveryday Visa",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/67caf911-10c1-4efa-a1f5-dd864c21914d.png"
+        },
+        {
+          "name": "⚯ UnionBank Assumption Alumni Association Visa",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/9c15a64c-7bd6-4735-a180-732472ebeb01.png"
+        },
+        {
+          "name": "⚯ UnionBank La Salle Greenhills Visa",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/c095e40c-848b-4932-ba1a-84386ffa53e3.png"
+        },
+        {
+          "name": "⚯ UnionBank De La Salle Alumni Visa",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/f74db405-edb4-4bb7-91f4-4a52b07bd4ed.png"
+        },
+        {
+          "name": "⚯ UnionBank Don Bosco Alumni Association Visa",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/8fb00582-24da-4d7e-adfb-400dc79e1b0f.png"
+        },
+        {
+          "name": "⚯ UnionBank University of the Philippines Alumni Association Visa",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/c5cd6456-db92-4f58-9023-7bec6b939979.png"
+        },
+        {
+          "name": "⚯ UnionBank Ateneo Alumni Association Visa",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/e5e335c5-793a-4175-8733-7bb9cd6e06c3.png"
+        },
+        {
+          "name": "⚯ UnionBank Southwestern University Alumni Foundation Visa",
+          "bank": "UB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/e53e5ccf-a369-448d-9867-3472537d9a88.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF on lunch and dinner buffet with minimum of two (2) and maximum of ten (10) diners\n\n• Excludes beverages\n\n• Advance reservation is required\n---\n# Other Details\n• The discount applies to the total bill, including government taxes and service charge\n---\n# Location\n• Fairmont Hotel, Makati City\n---\n# Links\nhttps://www.unionbankph.com/cards/credit-card/discounts-and-promos?id=8195\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/10e8e1de-783d-4ea3-9798-7e6986251cd2.webp",
+      "status": "active"
+    },
+    {
+      "id": "78be09cba539a3fbee192748",
+      "name": "50% OFF at Vikings",
+      "merchant": {
+        "name": "Vikings",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/f6dab904-00c7-4afe-9893-23e836db1d58.png"
+      },
+      "categories": [
+        "50% Off",
+        "Dining",
+        "Restaurants"
+      ],
+      "start": "2026-07-31T16:00:00.000Z",
+      "end": "2026-09-30T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "MBTC",
+          "name": "Metrobank",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/metrobank-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "Metrobank Rewards Plus Visa Platinum",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/e68ce51d-32b7-4d65-9d9a-58c535b87d4c.png"
+        },
+        {
+          "name": "Metrobank Cashback Visa Platinum",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/c027110b-b8fb-4577-bf25-46c59dc35412.png"
+        },
+        {
+          "name": "Metrobank Travel Signature Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/ed200da3-4283-4b53-8a4d-1ccd0d0196bd.webp"
+        },
+        {
+          "name": "Metrobank Femme Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/7e65ae61-5a20-4f2a-9857-be43f8e8aad1.png"
+        },
+        {
+          "name": "Metrobank Femme Signature Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/59e3e7ad-6a2e-4cc8-a8f9-ef93fb13d7e9.png"
+        },
+        {
+          "name": "Metrobank Vantage Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/2c6693ce-fcd9-4a4c-a893-d85a31bd8f95.png"
+        },
+        {
+          "name": "Metrobank Travel Platinum Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/95a7d4f1-6537-4815-b550-bf25239c730f.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF on lunch and dinner buffet with minimum of five (5) and maximum of ten (10) diners\n• Advance reservation is required\n---\n# Other Details\n• The discount applies to the total bill, including government taxes and no service charge\n---\n# Location\n• Check the link below to see list of participating branches\n---\n# Links\nhttps://www.metrobank.com.ph/promos/discounts-vikings-group\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/203356b2-f344-49b9-a1cb-4e869ce77c12.webp",
+      "status": "active"
+    },
+    {
+      "id": "69d92cb31f36d83390f5aaca",
+      "name": "50% OFF at Spectrum",
+      "merchant": {
+        "name": "Spectrum",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/583af60f-6cc6-483a-a383-39918ca62720.jpg"
+      },
+      "categories": [
+        "Dining",
+        "50% Off"
+      ],
+      "start": "2026-04-09T16:00:00.000Z",
+      "end": "2026-11-30T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "EW",
+          "name": "EastWest Bank",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/ew-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "EastWest Platinum Mastercard",
+          "bank": "EW",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/10c0b174-904f-457c-8fa5-97f3d8139b2a.png"
+        },
+        {
+          "name": "EastWest Privilege Visa",
+          "bank": "EW",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/edc144a9-8f25-4d91-a724-8bfbc75ff4ff.png"
+        },
+        {
+          "name": "EastWest Gold Visa",
+          "bank": "EW",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/74e16f66-a884-4822-9b4f-16191ad2256f.png"
+        },
+        {
+          "name": "EastWest Visa Platinum",
+          "bank": "EW",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/f0236bc7-1606-46c6-a5aa-85d3f042abca.png"
+        },
+        {
+          "name": "EastWest Privilege Mastercard",
+          "bank": "EW",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/7ffaa280-7872-49ba-a799-e7d012dc582f.png"
+        },
+        {
+          "name": "EastWest Gold Mastercard",
+          "bank": "EW",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/59b84324-742f-476e-9284-8f8dd81e5f90.png"
+        },
+        {
+          "name": "EastWest Dolce Vita Titanium Mastercard",
+          "bank": "EW",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/75d87baa-6314-4f9d-9a08-82fd9cdfde3a.png"
+        },
+        {
+          "name": "EastWest EveryDay Titanium Mastercard",
+          "bank": "EW",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/f656fc01-6abe-428c-b65d-462ed213a685.png"
+        },
+        {
+          "name": "EastWest JCB Gold",
+          "bank": "EW",
+          "service": "JCB",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/5ad54131-d6e3-4774-9657-9ef0a1414c3f.png"
+        },
+        {
+          "name": "EastWest JCB Platinum",
+          "bank": "EW",
+          "service": "JCB",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/762a817c-0ee8-404d-98a1-6f69d0f8a028.png"
+        },
+        {
+          "name": "EastWest Singapore Airlines KrisFlyer Platinum Mastercard",
+          "bank": "EW",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/235ff04c-6c97-4e6b-88b5-c2fd11f24692.png"
+        },
+        {
+          "name": "EastWest Singapore Airlines KrisFlyer World Mastercard",
+          "bank": "EW",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/6c6196db-79e8-4653-a735-833d87d52c71.png"
+        },
+        {
+          "name": "EastWest Priority Visa Infinite",
+          "bank": "EW",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/63039dd9-7e67-4b19-95a4-b6ae9161be35.png"
+        },
+        {
+          "name": "EastWest Puregold Visa",
+          "bank": "EW",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/9723b2f7-25df-4d0f-b9ab-72529f4eea50.png"
+        },
+        {
+          "name": "EastWest foodpanda Visa",
+          "bank": "EW",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/73f99978-d3cf-4757-a02a-574722c34d4e.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF on lunch and dinner buffet with minimum of two (2) and maximum of ten (10) diners\n\n• Valid for dine-in transactions only\n\n• Advance reservation is required\n---\n# Other Details\n• All additional fees including service charges, delivery, and taxes will be charged to the cardholder\n---\n\nOther Eligible Cards\n\n---\n# Location\n• Fairmont Hotel, Makati City\n---\n# Links\nhttps://www.eastwestbanker.com/promos/50-spectrum-fairmont-makati-0\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/fa464cf4-3397-424c-af41-ecd12a03952d.webp",
+      "status": "active"
+    },
+    {
+      "id": "6a278107a52f1708e28ea742",
+      "name": "Up to 60% OFF at Melo’s Steakhouse",
+      "merchant": {
+        "name": "Melo's Steakhouse",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/9561ce87-9c63-4a37-ba4f-230764a68738.jpg"
+      },
+      "categories": [
+        "50% Off",
+        "Dining"
+      ],
+      "start": "2026-05-31T16:00:00.000Z",
+      "end": "2027-01-31T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "MBTC",
+          "name": "Metrobank",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/metrobank-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "Metrobank M Free Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/7d8251a6-c153-45d6-965a-03082c08a066.png"
+        },
+        {
+          "name": "Metrobank Titanium Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/a2268ace-26d2-4fdd-8a1a-8a82fad94c1a.png"
+        },
+        {
+          "name": "Metrobank Rewards Plus Visa Platinum",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/e68ce51d-32b7-4d65-9d9a-58c535b87d4c.png"
+        },
+        {
+          "name": "Metrobank Cashback Visa Platinum",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/c027110b-b8fb-4577-bf25-46c59dc35412.png"
+        },
+        {
+          "name": "Metrobank Platinum Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/9903bbe4-d738-4eb0-8a7a-d2c117356c18.png"
+        },
+        {
+          "name": "Metrobank Toyota Platinum Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/d87697f6-e7d8-470e-84c6-6e1336e10c6a.png"
+        },
+        {
+          "name": "Metrobank Travel Signature Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/ed200da3-4283-4b53-8a4d-1ccd0d0196bd.webp"
+        },
+        {
+          "name": "Metrobank World Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/2a138f81-9f14-4436-a0c3-675e73911896.png"
+        },
+        {
+          "name": "PSBank Credit Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/884920c2-2c48-4c7f-a67a-c9718eebd08d.png"
+        },
+        {
+          "name": "Metrobank Femme Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/7e65ae61-5a20-4f2a-9857-be43f8e8aad1.png"
+        },
+        {
+          "name": "Metrobank Femme Signature Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/59e3e7ad-6a2e-4cc8-a8f9-ef93fb13d7e9.png"
+        },
+        {
+          "name": "Metrobank Vantage Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/2c6693ce-fcd9-4a4c-a893-d85a31bd8f95.png"
+        },
+        {
+          "name": "Metrobank Vantage Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/7d75c534-13f3-4d73-8100-c334b2af15b8.png"
+        },
+        {
+          "name": "Metrobank Travel Platinum Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/95a7d4f1-6537-4815-b550-bf25239c730f.png"
+        },
+        {
+          "name": "Metrobank Toyota Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/6c885d37-7e7a-4035-9769-5a9bdc22b644.png"
+        }
+      ],
+      "description": "# Promo Details\n• Up to 60% OFF on a Melo's select three (3) course Surf and Turf steak set meal with drink\n- 60% OFF on Certified Angus Steak Set \n- 54% OFF on Australian Wagyu Set\n- 46% OFF on Premium Japanese Wagyu Set\n\n• Valid for dine-in transactions only\n\n• Up to six sets per transaction\n\n• Advance reservation is required\n---\n# Other Details\n• All additional fees including service charges, delivery, and taxes will be charged to the cardholder\n---\n# Location\n• Forbestown Center, Taguig City\n• South Triangle, Quezon City\n• Westgate Center, Muntinlupa City\n---\n# Links\nhttps://www.metrobank.com.ph/promos/up-to-sixty-percent-off-at-melos-steakhouse\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/8105cada-9251-4435-8ea2-9ec43e5f1e63.webp",
+      "status": "active"
+    },
+    {
+      "id": "15cfe1642fde3eafcd9c4bbf",
+      "name": "50% OFF at The Alley by Vikings",
+      "merchant": {
+        "name": " The Alley by Vikings",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/1de7d93d-484e-4765-802e-5c6cd5c046ec.png"
+      },
+      "categories": [
+        "50% Off",
+        "Dining",
+        "Restaurants"
+      ],
+      "start": "2026-07-31T16:00:00.000Z",
+      "end": "2026-09-30T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "MBTC",
+          "name": "Metrobank",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/metrobank-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "Metrobank Rewards Plus Visa Platinum",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/e68ce51d-32b7-4d65-9d9a-58c535b87d4c.png"
+        },
+        {
+          "name": "Metrobank Cashback Visa Platinum",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/c027110b-b8fb-4577-bf25-46c59dc35412.png"
+        },
+        {
+          "name": "Metrobank Travel Signature Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/ed200da3-4283-4b53-8a4d-1ccd0d0196bd.webp"
+        },
+        {
+          "name": "Metrobank Femme Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/7e65ae61-5a20-4f2a-9857-be43f8e8aad1.png"
+        },
+        {
+          "name": "Metrobank Femme Signature Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/59e3e7ad-6a2e-4cc8-a8f9-ef93fb13d7e9.png"
+        },
+        {
+          "name": "Metrobank Vantage Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/2c6693ce-fcd9-4a4c-a893-d85a31bd8f95.png"
+        },
+        {
+          "name": "Metrobank Travel Platinum Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/95a7d4f1-6537-4815-b550-bf25239c730f.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF on lunch and dinner buffet with minimum of five (5) and maximum of ten (10) diners\n• Advance reservation is required\n---\n# Other Details\n• The discount applies to the total bill, including government taxes and no service charge\n---\n# Location\n• Check the link below to see list of participating branches\n---\n# Links\nhttps://www.metrobank.com.ph/promos/discounts-vikings-group\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/b8317d0b-55f9-4328-a986-b534d63674cb.webp",
+      "status": "active"
+    },
+    {
+      "id": "c02282a48734f3601382980d",
+      "name": "50% OFF at NIU",
+      "merchant": {
+        "name": "NIU",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/fb3b17c0-3c37-458b-87ee-568b2b8f8a5f.png"
+      },
+      "categories": [
+        "50% Off",
+        "Dining",
+        "Restaurants"
+      ],
+      "start": "2026-07-31T16:00:00.000Z",
+      "end": "2026-09-30T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "MBTC",
+          "name": "Metrobank",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/metrobank-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "Metrobank Rewards Plus Visa Platinum",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/e68ce51d-32b7-4d65-9d9a-58c535b87d4c.png"
+        },
+        {
+          "name": "Metrobank Cashback Visa Platinum",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/c027110b-b8fb-4577-bf25-46c59dc35412.png"
+        },
+        {
+          "name": "Metrobank Travel Signature Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/ed200da3-4283-4b53-8a4d-1ccd0d0196bd.webp"
+        },
+        {
+          "name": "Metrobank Femme Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/7e65ae61-5a20-4f2a-9857-be43f8e8aad1.png"
+        },
+        {
+          "name": "Metrobank Femme Signature Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/59e3e7ad-6a2e-4cc8-a8f9-ef93fb13d7e9.png"
+        },
+        {
+          "name": "Metrobank Vantage Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/2c6693ce-fcd9-4a4c-a893-d85a31bd8f95.png"
+        },
+        {
+          "name": "Metrobank Travel Platinum Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/95a7d4f1-6537-4815-b550-bf25239c730f.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF on lunch and dinner buffet with minimum of five (5) and maximum of ten (10) diners\n• Advance reservation is required\n---\n# Other Details\n• The discount applies to the total bill, including government taxes and no service charge\n---\n# Location\n• Check the link below to see list of participating branches\n---\n# Links\nhttps://www.metrobank.com.ph/promos/discounts-vikings-group\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/494c1a8b-29dd-4969-a488-a934fc6cbbbe.webp",
+      "status": "active"
+    },
+    {
+      "id": "69cd2bda807c70d2b3fe2ac5",
+      "name": "50% OFF at Kalesa Café",
+      "merchant": {
+        "name": "Kalesa Café by Wynwood Hotel",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/48fc4a91-c30b-4007-98e1-ee8a8c477eb5.png"
+      },
+      "categories": [
+        "Dining",
+        "50% Off"
+      ],
+      "start": "2026-03-31T16:00:00.000Z",
+      "end": "2026-09-30T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "MBTC",
+          "name": "Metrobank",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/metrobank-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "Metrobank M Free Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/7d8251a6-c153-45d6-965a-03082c08a066.png"
+        },
+        {
+          "name": "Metrobank Titanium Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/a2268ace-26d2-4fdd-8a1a-8a82fad94c1a.png"
+        },
+        {
+          "name": "Metrobank Rewards Plus Visa Platinum",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/e68ce51d-32b7-4d65-9d9a-58c535b87d4c.png"
+        },
+        {
+          "name": "Metrobank Cashback Visa Platinum",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/c027110b-b8fb-4577-bf25-46c59dc35412.png"
+        },
+        {
+          "name": "Metrobank Platinum Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/9903bbe4-d738-4eb0-8a7a-d2c117356c18.png"
+        },
+        {
+          "name": "Metrobank Toyota Platinum Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/d87697f6-e7d8-470e-84c6-6e1336e10c6a.png"
+        },
+        {
+          "name": "Metrobank Travel Signature Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/ed200da3-4283-4b53-8a4d-1ccd0d0196bd.webp"
+        },
+        {
+          "name": "Metrobank World Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/2a138f81-9f14-4436-a0c3-675e73911896.png"
+        },
+        {
+          "name": "PSBank Credit Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/884920c2-2c48-4c7f-a67a-c9718eebd08d.png"
+        },
+        {
+          "name": "Metrobank Femme Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/7e65ae61-5a20-4f2a-9857-be43f8e8aad1.png"
+        },
+        {
+          "name": "Metrobank Femme Signature Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/59e3e7ad-6a2e-4cc8-a8f9-ef93fb13d7e9.png"
+        },
+        {
+          "name": "Metrobank Vantage Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/2c6693ce-fcd9-4a4c-a893-d85a31bd8f95.png"
+        },
+        {
+          "name": "Metrobank Vantage Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/7d75c534-13f3-4d73-8100-c334b2af15b8.png"
+        },
+        {
+          "name": "Metrobank Travel Platinum Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/95a7d4f1-6537-4815-b550-bf25239c730f.png"
+        },
+        {
+          "name": "Metrobank Toyota Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/6c885d37-7e7a-4035-9769-5a9bdc22b644.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF on breakfast buffet with minimum of two (2) and maximum of six (6) diners\n---\n# Location\n• Wynwood Hotel, Pasig City\n---\n# Links\nhttps://www.metrobank.com.ph/promos/discounts-at-kalesa-cafe\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/cf4da95a-ad37-4712-b6cf-ab1783261f2a.webp",
+      "status": "active"
+    },
+    {
+      "id": "6fa07bc0cc87817e405f1962",
+      "name": "50% OFF at Spectrum",
+      "merchant": {
+        "name": "Spectrum",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/583af60f-6cc6-483a-a383-39918ca62720.jpg"
+      },
+      "categories": [
+        "50% Off",
+        "Dining",
+        "Restaurants"
+      ],
+      "start": "2026-06-16T16:00:00.000Z",
+      "end": "2026-12-30T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "BPI",
+          "name": "Bank of the Philippine Islands",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/bpi-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "BPI Rewards Mastercard",
+          "bank": "BPI",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/737e448d-0516-4b86-92dc-9878639dcfe5.png"
+        },
+        {
+          "name": "BPI Gold Rewards Mastercard",
+          "bank": "BPI",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/aea253fa-c9ca-49e1-a45e-a43fdfa82d49.png"
+        },
+        {
+          "name": "BPI Platinum Rewards Mastercard",
+          "bank": "BPI",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/8977ed74-fd8a-4c0a-885c-1aacf2052909.png"
+        },
+        {
+          "name": "BPI Amore Cashback Visa",
+          "bank": "BPI",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/21a3aed8-0e19-4f5f-903a-33611d7afcb7.png"
+        },
+        {
+          "name": "BPI Amore Cashback Visa Platinum",
+          "bank": "BPI",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/bcccd0f2-dcc9-4fd6-b3e4-0642730ce608.png"
+        },
+        {
+          "name": "Robinsons Cashback Visa Platinum",
+          "bank": "BPI",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/8a4580de-6eec-49cb-8ca1-9ce3add9a33f.png"
+        },
+        {
+          "name": "BPI Petron Mastercard",
+          "bank": "BPI",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/7b79ad96-e894-4615-a0bc-fc802b4ba60e.png"
+        },
+        {
+          "name": "BPI Edge Mastercard",
+          "bank": "BPI",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/bf05c4c0-79f1-4228-91e2-7f7738da06eb.png"
+        },
+        {
+          "name": "BPI DOS Mastercard",
+          "bank": "BPI",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/c68c68be-9c69-4866-848d-d2735db2f615.png"
+        },
+        {
+          "name": "BPI Visa Signature ",
+          "bank": "BPI",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/75ae15ab-414d-446d-8fbc-7754603cd718.png"
+        },
+        {
+          "name": "BPI Robinsons Cashback Mastercard",
+          "bank": "BPI",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/4d467716-048e-4dff-b828-8c8c0dc419ab.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF on Lunch and Dinner Buffet with minimum of two (2) and maximum of ten (10) diners\n• Excludes beverages\n• Advance reservation is required\n---\n# Other Details\n• All additional fees including service charges, delivery, and taxes will be charged to the cardholder\n---\n# Location\n• Fairmont Makati, 1 Raffles Dr., Makati Ave., Makati City\n---\n# Links\nhttps://www.bpi.com.ph/personal/rewards-and-promotions/promos/spectrum-by-fairmont-makati-promo\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/a47d2ec3-edcd-4dcb-bf17-df8e219a818b.webp",
+      "status": "active"
+    },
+    {
+      "id": "6a27824e7955bfb9a1293a55",
+      "name": "50% OFF at Spectrum",
+      "merchant": {
+        "name": "Spectrum",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/583af60f-6cc6-483a-a383-39918ca62720.jpg"
+      },
+      "categories": [
+        "50% Off",
+        "Dining"
+      ],
+      "start": "2026-04-09T16:00:00.000Z",
+      "end": "2026-11-30T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "MBTC",
+          "name": "Metrobank",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/metrobank-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "Metrobank M Free Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/7d8251a6-c153-45d6-965a-03082c08a066.png"
+        },
+        {
+          "name": "Metrobank Titanium Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/a2268ace-26d2-4fdd-8a1a-8a82fad94c1a.png"
+        },
+        {
+          "name": "Metrobank Rewards Plus Visa Platinum",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/e68ce51d-32b7-4d65-9d9a-58c535b87d4c.png"
+        },
+        {
+          "name": "Metrobank Cashback Visa Platinum",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/c027110b-b8fb-4577-bf25-46c59dc35412.png"
+        },
+        {
+          "name": "Metrobank Platinum Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/9903bbe4-d738-4eb0-8a7a-d2c117356c18.png"
+        },
+        {
+          "name": "Metrobank Toyota Platinum Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/d87697f6-e7d8-470e-84c6-6e1336e10c6a.png"
+        },
+        {
+          "name": "Metrobank Travel Signature Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/ed200da3-4283-4b53-8a4d-1ccd0d0196bd.webp"
+        },
+        {
+          "name": "Metrobank World Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/2a138f81-9f14-4436-a0c3-675e73911896.png"
+        },
+        {
+          "name": "PSBank Credit Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/884920c2-2c48-4c7f-a67a-c9718eebd08d.png"
+        },
+        {
+          "name": "Metrobank Femme Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/7e65ae61-5a20-4f2a-9857-be43f8e8aad1.png"
+        },
+        {
+          "name": "Metrobank Femme Signature Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/59e3e7ad-6a2e-4cc8-a8f9-ef93fb13d7e9.png"
+        },
+        {
+          "name": "Metrobank Vantage Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/2c6693ce-fcd9-4a4c-a893-d85a31bd8f95.png"
+        },
+        {
+          "name": "Metrobank Vantage Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/7d75c534-13f3-4d73-8100-c334b2af15b8.png"
+        },
+        {
+          "name": "Metrobank Travel Platinum Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/95a7d4f1-6537-4815-b550-bf25239c730f.png"
+        },
+        {
+          "name": "Metrobank Toyota Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/6c885d37-7e7a-4035-9769-5a9bdc22b644.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF on lunch and dinner buffet with minimum of two (2) and maximum of ten (10) diners\n\n• Valid for dine-in transactions only\n\n• Advance reservation is required\n---\n# Other Details\n• All additional fees including service charges, delivery, and taxes will be charged to the cardholder\n---\n# Location\n• Fairmont Hotel, Makati City\n---\n# Links\nhttps://offers.hsbc.com.ph/offers/171/fairmont-makati-spectrum\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/b4a145c0-9051-458a-86bc-a282c29842d2.webp",
+      "status": "active"
+    },
+    {
+      "id": "69f37f02098c041d1738bfda",
+      "name": "50% OFF at Flavors Restaurant",
+      "merchant": {
+        "name": "Flavors Restaurant",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/65684ef7-7022-478b-9ae2-05de967430c6.png"
+      },
+      "categories": [
+        "Dining",
+        "50% Off"
+      ],
+      "start": "2026-04-30T16:00:00.000Z",
+      "end": "2026-10-31T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "EW",
+          "name": "EastWest Bank",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/ew-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "EastWest Platinum Mastercard",
+          "bank": "EW",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/10c0b174-904f-457c-8fa5-97f3d8139b2a.png"
+        },
+        {
+          "name": "EastWest Privilege Visa",
+          "bank": "EW",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/edc144a9-8f25-4d91-a724-8bfbc75ff4ff.png"
+        },
+        {
+          "name": "EastWest Gold Visa",
+          "bank": "EW",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/74e16f66-a884-4822-9b4f-16191ad2256f.png"
+        },
+        {
+          "name": "EastWest Visa Platinum",
+          "bank": "EW",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/f0236bc7-1606-46c6-a5aa-85d3f042abca.png"
+        },
+        {
+          "name": "EastWest Privilege Mastercard",
+          "bank": "EW",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/7ffaa280-7872-49ba-a799-e7d012dc582f.png"
+        },
+        {
+          "name": "EastWest Gold Mastercard",
+          "bank": "EW",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/59b84324-742f-476e-9284-8f8dd81e5f90.png"
+        },
+        {
+          "name": "EastWest Dolce Vita Titanium Mastercard",
+          "bank": "EW",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/75d87baa-6314-4f9d-9a08-82fd9cdfde3a.png"
+        },
+        {
+          "name": "EastWest EveryDay Titanium Mastercard",
+          "bank": "EW",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/f656fc01-6abe-428c-b65d-462ed213a685.png"
+        },
+        {
+          "name": "EastWest JCB Gold",
+          "bank": "EW",
+          "service": "JCB",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/5ad54131-d6e3-4774-9657-9ef0a1414c3f.png"
+        },
+        {
+          "name": "EastWest JCB Platinum",
+          "bank": "EW",
+          "service": "JCB",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/762a817c-0ee8-404d-98a1-6f69d0f8a028.png"
+        },
+        {
+          "name": "EastWest Singapore Airlines KrisFlyer Platinum Mastercard",
+          "bank": "EW",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/235ff04c-6c97-4e6b-88b5-c2fd11f24692.png"
+        },
+        {
+          "name": "EastWest Singapore Airlines KrisFlyer World Mastercard",
+          "bank": "EW",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/6c6196db-79e8-4653-a735-833d87d52c71.png"
+        },
+        {
+          "name": "EastWest Priority Visa Infinite",
+          "bank": "EW",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/63039dd9-7e67-4b19-95a4-b6ae9161be35.png"
+        },
+        {
+          "name": "EastWest Puregold Visa",
+          "bank": "EW",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/9723b2f7-25df-4d0f-b9ab-72529f4eea50.png"
+        },
+        {
+          "name": "EastWest foodpanda Visa",
+          "bank": "EW",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/73f99978-d3cf-4757-a02a-574722c34d4e.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF the lunch and dinner buffet with minimum of two (2) and maximum of eight (8) diners\n\n• Valid for dine-in transactions only\n\n• Advance reservation is required\n---\n# Location\n• Holiday Inn & Suites, Makati City\n---\n# Links\nhttps://www.eastwestbanker.com/promos/50-holiday-inn-suites-makati\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/b8a7389d-788f-435c-8b25-fbb2423659b9.webp",
+      "status": "active"
+    },
+    {
+      "id": "68d22cbe7b2290ce8b2bdf4b",
+      "name": "50% OFF at Cold Layers Café",
+      "merchant": {
+        "name": "Cold Layers Café",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/fe286ac6-3c1b-4f37-95ec-494ce29223a2.jpg"
+      },
+      "categories": [
+        "50% Off",
+        "Dining"
+      ],
+      "start": "2025-09-30T16:00:00.000Z",
+      "end": "2026-09-30T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "MBTC",
+          "name": "Metrobank",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/metrobank-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "Metrobank M Free Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/7d8251a6-c153-45d6-965a-03082c08a066.png"
+        },
+        {
+          "name": "Metrobank Titanium Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/a2268ace-26d2-4fdd-8a1a-8a82fad94c1a.png"
+        },
+        {
+          "name": "Metrobank Rewards Plus Visa Platinum",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/e68ce51d-32b7-4d65-9d9a-58c535b87d4c.png"
+        },
+        {
+          "name": "Metrobank Cashback Visa Platinum",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/c027110b-b8fb-4577-bf25-46c59dc35412.png"
+        },
+        {
+          "name": "Metrobank Platinum Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/9903bbe4-d738-4eb0-8a7a-d2c117356c18.png"
+        },
+        {
+          "name": "Metrobank Travel Signature Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/ed200da3-4283-4b53-8a4d-1ccd0d0196bd.webp"
+        },
+        {
+          "name": "Metrobank World Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/2a138f81-9f14-4436-a0c3-675e73911896.png"
+        },
+        {
+          "name": "PSBank Credit Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/884920c2-2c48-4c7f-a67a-c9718eebd08d.png"
+        },
+        {
+          "name": "Metrobank Femme Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/7e65ae61-5a20-4f2a-9857-be43f8e8aad1.png"
+        },
+        {
+          "name": "Metrobank Femme Signature Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/59e3e7ad-6a2e-4cc8-a8f9-ef93fb13d7e9.png"
+        },
+        {
+          "name": "Metrobank Travel Platinum Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/95a7d4f1-6537-4815-b550-bf25239c730f.png"
+        },
+        {
+          "name": "Metrobank Toyota Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/6c885d37-7e7a-4035-9769-5a9bdc22b644.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF with minimum spend of ₱1,200 and maximum discount of ₱2,500 on total bill\n• Valid for dine-in transactions only\n---\n# Other Details\n• Promo is not applicable for take-out and orders made from third party food delivery services\n---\n# Location\n• 3/F Fishermall, Quezon Avenue, Quezon City\n---\n# Links\nhttps://www.metrobank.com.ph/promos/fifty-percent-off-at-cold-layers-cafe\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/94dc64fd-0abf-40e7-8387-951ca2b00714.webp",
+      "status": "active"
+    },
+    {
+      "id": "63b61a3132043130da54eedd",
+      "name": "50% OFF at Yawaragi",
+      "merchant": {
+        "name": "Yawaragi",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/c20180c8-0225-4480-ba7a-9dc3ff187782.jpg"
+      },
+      "categories": [
+        "50% Off",
+        "Dining",
+        "Restaurants"
+      ],
+      "start": "2026-07-31T16:00:00.000Z",
+      "end": "2026-09-27T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "EW",
+          "name": "EastWest Bank",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/ew-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "EastWest Platinum Mastercard",
+          "bank": "EW",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/10c0b174-904f-457c-8fa5-97f3d8139b2a.png"
+        },
+        {
+          "name": "EastWest Singapore Airlines KrisFlyer Platinum Mastercard",
+          "bank": "EW",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/235ff04c-6c97-4e6b-88b5-c2fd11f24692.png"
+        },
+        {
+          "name": "EastWest Singapore Airlines KrisFlyer World Mastercard",
+          "bank": "EW",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/6c6196db-79e8-4653-a735-833d87d52c71.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF on Lunch and Dinner Buffet with minimum of two (2) and maximum of ten (10) diners, with a maximum discount of ₱14,940 on total food bill\n• Advance reservation is required\n---\n# Other Details\n• All additional fees including service charges, delivery, and taxes will be charged to the cardholder\n---\n# Location\n• Hotel Okura Manila, Newport City, Pasay City\n---\n# Links\nhttps://www.eastwestbanker.com/promos/50-savings-yawaragi-hotel-okura-manila\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/aa0d34c9-9e08-4319-ad12-e8fe1efe634e.webp",
+      "status": "active"
+    },
+    {
+      "id": "a7c25c14f911fb50be7cf2b3",
+      "name": "50% OFF at Eataewon",
+      "merchant": {
+        "name": "Eataewon",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/ee695661-a288-448d-922d-04a7fb860a67.jpg"
+      },
+      "categories": [
+        "50% Off",
+        "Dining",
+        "Restaurants"
+      ],
+      "start": "2026-07-31T16:00:00.000Z",
+      "end": "2026-10-31T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "MBTC",
+          "name": "Metrobank",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/metrobank-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "Metrobank M Free Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/7d8251a6-c153-45d6-965a-03082c08a066.png"
+        },
+        {
+          "name": "Metrobank Titanium Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/a2268ace-26d2-4fdd-8a1a-8a82fad94c1a.png"
+        },
+        {
+          "name": "Metrobank Rewards Plus Visa Platinum",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/e68ce51d-32b7-4d65-9d9a-58c535b87d4c.png"
+        },
+        {
+          "name": "Metrobank Cashback Visa Platinum",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/c027110b-b8fb-4577-bf25-46c59dc35412.png"
+        },
+        {
+          "name": "Metrobank Platinum Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/9903bbe4-d738-4eb0-8a7a-d2c117356c18.png"
+        },
+        {
+          "name": "Metrobank Toyota Platinum Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/d87697f6-e7d8-470e-84c6-6e1336e10c6a.png"
+        },
+        {
+          "name": "Metrobank Travel Signature Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/ed200da3-4283-4b53-8a4d-1ccd0d0196bd.webp"
+        },
+        {
+          "name": "Metrobank World Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/2a138f81-9f14-4436-a0c3-675e73911896.png"
+        },
+        {
+          "name": "PSBank Credit Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/884920c2-2c48-4c7f-a67a-c9718eebd08d.png"
+        },
+        {
+          "name": "Metrobank Femme Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/7e65ae61-5a20-4f2a-9857-be43f8e8aad1.png"
+        },
+        {
+          "name": "Metrobank Femme Signature Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/59e3e7ad-6a2e-4cc8-a8f9-ef93fb13d7e9.png"
+        },
+        {
+          "name": "Metrobank Vantage Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/2c6693ce-fcd9-4a4c-a893-d85a31bd8f95.png"
+        },
+        {
+          "name": "Metrobank Vantage Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/7d75c534-13f3-4d73-8100-c334b2af15b8.png"
+        },
+        {
+          "name": "Metrobank Travel Platinum Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/95a7d4f1-6537-4815-b550-bf25239c730f.png"
+        },
+        {
+          "name": "Metrobank Toyota Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/6c885d37-7e7a-4035-9769-5a9bdc22b644.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF with minimum spend of ₱2,500 and maximum discount of ₱5,000 on total food bill\n• Excludes beverages and desserts\n• Valid for dine-in and take-out transactions\n---\n# Other Details\n• The promo is not applicable to group meals, bundles, and unlimited menus\n• All additional fees including service charges, delivery, and taxes will be charged to the cardholder\n---\n# Location\n• SM Fairview, Novaliches, Quezon City\n• Glorietta, Ayala Center, Makati City\n• Gateway Mall 2, Araneta City, Quezon City\n• SM Megamall, Dona Julia Vargas Ave., Mandaluyong City\n• Robinsons Place Manila, Ermita Manila\n• Festival Mall, Filinvest City, Alabang, Muntinlupa City\n---\n# Links\nhttps://www.metrobank.com.ph/promos/fifty-percent-off-at-eataewon\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/a0f4dbea-0310-4eb6-bf96-fafa67232191.webp",
+      "status": "active"
+    },
+    {
+      "id": "6a0aa35f2f370fa6071a65f2",
+      "name": "50% OFF at Txanton",
+      "merchant": {
+        "name": "Txanton",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/7e045342-22df-428c-80d0-ebb3769acf21.jpg"
+      },
+      "categories": [
+        "50% Off",
+        "Dining"
+      ],
+      "start": "2026-02-14T16:00:00.000Z",
+      "end": "2026-12-31T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "HSBC",
+          "name": "HSBC Philippines",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/2ee7e449-0b86-40b7-b9df-5f67514ec7db.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "HSBC Live+ Visa Signature",
+          "bank": "HSBC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/58ffac9d-759a-45c8-bad0-bd707d725df3.png"
+        },
+        {
+          "name": "HSBC Red Platinum Mastercard",
+          "bank": "HSBC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/e5c0cd74-c8c4-44e4-8cb5-02353f670be2.png"
+        },
+        {
+          "name": "HSBC Cash Back Gold Visa",
+          "bank": "HSBC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/6c734de5-2f1b-43b9-af55-329f04d92a00.png"
+        },
+        {
+          "name": "HSBC Rebate Visa Platinum",
+          "bank": "HSBC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/7d5f18c2-4966-464d-baf3-71df59ba7c9e.png"
+        },
+        {
+          "name": "HSBC Premier Mastercard",
+          "bank": "HSBC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/39411db4-ddea-4b3f-b494-d3f1a164ed68.png"
+        },
+        {
+          "name": "HSBC Premier Travel Mastercard",
+          "bank": "HSBC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/b8f6c636-3484-4e14-bef5-933301e4ce48.png"
+        },
+        {
+          "name": "HSBC Premier World Mastercard",
+          "bank": "HSBC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/b1904a7c-1653-43cd-a9aa-e1d53df67b32.png"
+        }
+      ],
+      "description": "# Promo Details\n• Up to 50% OFF on minimum consumable amount on event reservations\nRooms and Minimum Spend:\n- La Sala de Cata (The Tasting Room): minimum spend of ₱35,000\n- La Gran Añada (The Great Vintage): minimum spend of ₱60,000\n- La Carne (The Meat): minimum spend of ₱50,000\n- Cave: minimum spend of ₱45,000\n---\n# Other Details\n• Avail the discount when you pay 50% of the net-of-discount minimum consumable as a block-in fee, payable in full and in a single receipt transaction. The discount applies only to the minimum consumable requirement and does not apply to the actual total consumption during the event\n------\n# Location\n• Alegria Alta Bldg., Makati City\n---\n# Links\nhttps://offers.hsbc.com.ph/offers/182/txanton\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/8b400a3c-18b8-4f94-b8ae-03f91af81bcc.webp",
+      "status": "active"
+    },
+    {
+      "id": "6a02d0cd81b11afcacfee348",
+      "name": "50% OFF at Zabana Bar",
+      "merchant": {
+        "name": "Winford Cafe at Winford Resort & Casino Manila",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/f8ca343d-b33d-420e-92e3-207ec8fdb8ae.jpg"
+      },
+      "categories": [
+        "50% Off",
+        "Dining"
+      ],
+      "start": "2026-04-26T16:00:00.000Z",
+      "end": "2026-10-26T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "EW",
+          "name": "EastWest Bank",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/ew-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "EastWest Platinum Mastercard",
+          "bank": "EW",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/10c0b174-904f-457c-8fa5-97f3d8139b2a.png"
+        },
+        {
+          "name": "EastWest Privilege Visa",
+          "bank": "EW",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/edc144a9-8f25-4d91-a724-8bfbc75ff4ff.png"
+        },
+        {
+          "name": "EastWest Gold Visa",
+          "bank": "EW",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/74e16f66-a884-4822-9b4f-16191ad2256f.png"
+        },
+        {
+          "name": "EastWest Visa Platinum",
+          "bank": "EW",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/f0236bc7-1606-46c6-a5aa-85d3f042abca.png"
+        },
+        {
+          "name": "EastWest Privilege Mastercard",
+          "bank": "EW",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/7ffaa280-7872-49ba-a799-e7d012dc582f.png"
+        },
+        {
+          "name": "EastWest Gold Mastercard",
+          "bank": "EW",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/59b84324-742f-476e-9284-8f8dd81e5f90.png"
+        },
+        {
+          "name": "EastWest Dolce Vita Titanium Mastercard",
+          "bank": "EW",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/75d87baa-6314-4f9d-9a08-82fd9cdfde3a.png"
+        },
+        {
+          "name": "EastWest EveryDay Titanium Mastercard",
+          "bank": "EW",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/f656fc01-6abe-428c-b65d-462ed213a685.png"
+        },
+        {
+          "name": "EastWest JCB Gold",
+          "bank": "EW",
+          "service": "JCB",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/5ad54131-d6e3-4774-9657-9ef0a1414c3f.png"
+        },
+        {
+          "name": "EastWest JCB Platinum",
+          "bank": "EW",
+          "service": "JCB",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/762a817c-0ee8-404d-98a1-6f69d0f8a028.png"
+        },
+        {
+          "name": "EastWest Singapore Airlines KrisFlyer Platinum Mastercard",
+          "bank": "EW",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/235ff04c-6c97-4e6b-88b5-c2fd11f24692.png"
+        },
+        {
+          "name": "EastWest Singapore Airlines KrisFlyer World Mastercard",
+          "bank": "EW",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/6c6196db-79e8-4653-a735-833d87d52c71.png"
+        },
+        {
+          "name": "EastWest Priority Visa Infinite",
+          "bank": "EW",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/63039dd9-7e67-4b19-95a4-b6ae9161be35.png"
+        },
+        {
+          "name": "EastWest Puregold Visa",
+          "bank": "EW",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/9723b2f7-25df-4d0f-b9ab-72529f4eea50.png"
+        },
+        {
+          "name": "EastWest foodpanda Visa",
+          "bank": "EW",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/73f99978-d3cf-4757-a02a-574722c34d4e.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF with minimum spend of ₱3,000 and maximum discount of ₱2,500 on total bill\n\n• Advance reservation is required\n---\n# Location\n• Winford Resort & Casino Manila, Manila City\n---\n# Links\nhttps://www.eastwestbanker.com/promos/50-savings-winford-resort-casino-manila\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/8f428951-280a-4d4c-bfae-f4f2522895ce.webp",
+      "status": "active"
+    },
+    {
+      "id": "6a44476bca6c54480e1e050b",
+      "name": "50% OFF at Flavors Restaurant",
+      "merchant": {
+        "name": "Flavors Restaurant",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/65684ef7-7022-478b-9ae2-05de967430c6.png"
+      },
+      "categories": [
+        "50% Off",
+        "Dining",
+        "Restaurants"
+      ],
+      "start": "2026-06-30T16:00:00.000Z",
+      "end": "2026-09-30T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "MBTC",
+          "name": "Metrobank",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/metrobank-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "Metrobank M Free Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/7d8251a6-c153-45d6-965a-03082c08a066.png"
+        },
+        {
+          "name": "Metrobank Titanium Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/a2268ace-26d2-4fdd-8a1a-8a82fad94c1a.png"
+        },
+        {
+          "name": "Metrobank Rewards Plus Visa Platinum",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/e68ce51d-32b7-4d65-9d9a-58c535b87d4c.png"
+        },
+        {
+          "name": "Metrobank Cashback Visa Platinum",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/c027110b-b8fb-4577-bf25-46c59dc35412.png"
+        },
+        {
+          "name": "Metrobank Platinum Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/9903bbe4-d738-4eb0-8a7a-d2c117356c18.png"
+        },
+        {
+          "name": "Metrobank Toyota Platinum Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/d87697f6-e7d8-470e-84c6-6e1336e10c6a.png"
+        },
+        {
+          "name": "Metrobank Travel Signature Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/ed200da3-4283-4b53-8a4d-1ccd0d0196bd.webp"
+        },
+        {
+          "name": "Metrobank World Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/2a138f81-9f14-4436-a0c3-675e73911896.png"
+        },
+        {
+          "name": "PSBank Credit Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/884920c2-2c48-4c7f-a67a-c9718eebd08d.png"
+        },
+        {
+          "name": "Metrobank Femme Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/7e65ae61-5a20-4f2a-9857-be43f8e8aad1.png"
+        },
+        {
+          "name": "Metrobank Femme Signature Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/59e3e7ad-6a2e-4cc8-a8f9-ef93fb13d7e9.png"
+        },
+        {
+          "name": "Metrobank Vantage Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/2c6693ce-fcd9-4a4c-a893-d85a31bd8f95.png"
+        },
+        {
+          "name": "Metrobank Vantage Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/7d75c534-13f3-4d73-8100-c334b2af15b8.png"
+        },
+        {
+          "name": "Metrobank Travel Platinum Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/95a7d4f1-6537-4815-b550-bf25239c730f.png"
+        },
+        {
+          "name": "Metrobank Toyota Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/6c885d37-7e7a-4035-9769-5a9bdc22b644.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF on Lunch and Dinner Buffet with minimum of two (2) and maximum of ten (10) diners\n• Advance reservation is required\n\n---\n# Other Details\n• Dining offers are also available for non-guests of the hotel; walk-ins are welcome\n• All additional fees including service charges, delivery, and taxes will be charged to the cardholder\n---\n# Location\n• Holiday Inn & Suites Makati, Ayala Center, Makati City\n---\n# Links\nhttps://www.metrobank.com.ph/promos/discounts-flavors-restaurant\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/c6edee35-d379-4530-8c79-41ec1d161d79.webp",
+      "status": "active"
+    },
+    {
+      "id": "6a445899af0285a026c20934",
+      "name": "50% OFF at Spectrum",
+      "merchant": {
+        "name": "Spectrum",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/583af60f-6cc6-483a-a383-39918ca62720.jpg"
+      },
+      "categories": [
+        "50% Off",
+        "Dining",
+        "Restaurants"
+      ],
+      "start": "2026-04-09T16:00:00.000Z",
+      "end": "2026-11-30T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "PNB",
+          "name": "Philippine National Bank",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/4533ed85-31f1-4a68-82cb-9f62f3388269.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "PNB Ze-Lo Mastercard",
+          "bank": "PNB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/344cd09d-a4da-4efe-b23d-db9ff1867992.png"
+        },
+        {
+          "name": "PNB Classic Visa",
+          "bank": "PNB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/5cf5b0e5-2109-404c-955d-06712b2aa628.png"
+        },
+        {
+          "name": "PNB Essentials Mastercard",
+          "bank": "PNB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/be774e8a-0db8-437d-83b3-c4172cb5b023.png"
+        },
+        {
+          "name": "PNB Gold Visa",
+          "bank": "PNB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/b015d613-1f11-4fd1-8ca3-e0a8c883d025.png"
+        },
+        {
+          "name": "PNB Cashback Titanium Mastercard",
+          "bank": "PNB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/6b5b9b60-45ec-4f3d-af89-3ded89862e29.png"
+        },
+        {
+          "name": "PNB Diamond UnionPay",
+          "bank": "PNB",
+          "service": "UnionPay",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/bba2f446-f1ab-4ff4-9a37-517c02982764.png"
+        },
+        {
+          "name": "PNB Platinum Mastercard",
+          "bank": "PNB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/796954fc-7ab4-4491-a5d6-18bb394dcc24.png"
+        },
+        {
+          "name": "PNB-PAL Mabuhay Miles NOW Mastercard",
+          "bank": "PNB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/a18f3067-f5c5-4f82-9e88-7661f7f4f3b5.png"
+        },
+        {
+          "name": "PNB-PAL Mabuhay Miles Platinum Mastercard",
+          "bank": "PNB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/c82c1f24-809d-4cb1-b13f-68df7365344c.png"
+        },
+        {
+          "name": "PNB-PAL Mabuhay Miles World Mastercard",
+          "bank": "PNB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/ae4779e5-7cf9-41ac-8a49-12b3b0ce9693.png"
+        },
+        {
+          "name": "PNB-PAL Mabuhay Miles World Elite Mastercard",
+          "bank": "PNB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/448a9b07-606c-4d69-b19d-9c99fc5b9f4a.png"
+        },
+        {
+          "name": "PNB-The Travel Club Platinum Mastercard",
+          "bank": "PNB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/662dab9b-4768-4626-bbdb-c072b42871bb.png"
+        },
+        {
+          "name": "⚯ PNB-La Salle Green Hills Alumni Association Platinum Mastercard",
+          "bank": "PNB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/3d63f1cc-9f15-4324-b0ba-4dc0257fd9f1.png"
+        },
+        {
+          "name": "⚯ PNB-Alturas Visa",
+          "bank": "PNB",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/2ab2bb0f-a895-4bf5-8083-63e4e97d26fb.png"
+        },
+        {
+          "name": "⚯ PNB-Immaculate Conception Academy Alumnae Association Platinum Mastercard",
+          "bank": "PNB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/c15f9758-4fc7-41c2-8479-610ea1bf4ca5.png"
+        },
+        {
+          "name": "⚯ PNB-Alumni Association of Xavier School Platinum Mastercard",
+          "bank": "PNB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/90ba8543-898d-4d4a-a309-40ab6b8266d1.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF on Lunch and Dinner Buffet with minimum of two (2) and maximum of ten (10) diners\n• Advance reservation is required\n---\n# Other Details\n• Excludes beverages\n• All additional fees including service charges, delivery, and taxes will be charged to the cardholder\n---\n# Location\n• Fairmont Makati, 1 Raffles Drive, Makati Ave, Makati\n---\n# Links\nhttps://www.pnb.com.ph/post/20-off-at-monza-barcade-with-your-pnb-card-copy-1\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/e055982d-d397-4d82-bd2f-eaf10a8c1965.webp",
+      "status": "active"
+    },
+    {
+      "id": "42f542e1986f8cd8032298bd",
+      "name": "50% OFF at Maple Tree House",
+      "merchant": {
+        "name": "Maple Tree House",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/038c9893-c1d5-4e34-bda7-53b5590c4ff3.jpg"
+      },
+      "categories": [
+        "50% Off",
+        "Dining",
+        "Restaurants"
+      ],
+      "start": "2026-08-24T16:00:00.000Z",
+      "end": "2026-09-30T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "BPI",
+          "name": "Bank of the Philippine Islands",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/bpi-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "BPI Visa Signature ",
+          "bank": "BPI",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/75ae15ab-414d-446d-8fbc-7754603cd718.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF with minimum spend of ₱3,000 and maximum discount of ₱10,000 on total bill\n• Valid for dine-in transactions only\n• Vouchers must be claimed and presented via the upgraded Oh My Deals! (OMD) App together with a valid BPI Credit Card\n• Maximum of 1 redemption/voucher per valid card during the whole promo period\n---\n# Other Details\n• Excludes bundles and limited time offer\n• Discount will be applied on the total food bill (gross of VAT). Total customer due is the Total Food Bill, net of discount + 10% service charge\n---\n# Location\n• 2nd Level, North Towers, SM North EDSA\n• Level 1, North Entertainment Mall, SM Mall of Asia\n---\n# Links\nCheck Oh My Deals App for the promo's full Terms & Conditions\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/a5a36f0b-c436-489c-83e0-de5b8779de07.webp",
+      "status": "active"
+    },
+    {
+      "id": "de9766dbc06ee301c90be958",
+      "name": "50% OFF at Shakey's",
+      "merchant": {
+        "name": "Shakey's",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/36267b99-d631-4bf1-adbc-99aa1c56e19e.png"
+      },
+      "categories": [
+        "50% Off",
+        "Restaurants",
+        "Dining"
+      ],
+      "start": "2026-08-16T16:00:00.000Z",
+      "end": "2026-09-30T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "BOC",
+          "name": "Bank of Commerce",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/boc-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "BOC Classic Mastercard",
+          "bank": "BOC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/02485c02-4215-448a-8d2a-9edb273baaac.png"
+        },
+        {
+          "name": "BOC Gold Mastercard",
+          "bank": "BOC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/0f80b1a1-d85e-4772-99ab-8556ca680250.png"
+        },
+        {
+          "name": "BOC Platinum Mastercard",
+          "bank": "BOC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/09549392-b042-4f2e-bc33-b0a485117596.png"
+        },
+        {
+          "name": "BOC World Mastercard",
+          "bank": "BOC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/e2699e33-e0a3-48a9-b261-23bc56f94d25.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF with minimum spend of ₱2,500 and maximum discount of ₱2,000 on total bill\n• Valid for dine-in transactions\n\n---\n# Other Details\n• Promo is not valid on declared public holidays and any additional holidays that may be declared during the campaign period\n---\n# Location\n• All Shakey's Branches except:\n\n- Cebu – MCIA 1 & 2\n- Enchanted Kingdom\n---\n# Links\nhttps://www.bankcom.com.ph/promotions/the-secrets-out-50-off-at-shakeys-exclusively-with-your-bankcom-credit-card/\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/1ac13026-6a86-449b-a514-03386da9a1c8.webp",
+      "status": "active"
+    },
+    {
+      "id": "933e597080b3080618ab498e",
+      "name": "50% OFF at Spectrum",
+      "merchant": {
+        "name": "Spectrum",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/583af60f-6cc6-483a-a383-39918ca62720.jpg"
+      },
+      "categories": [
+        "50% Off",
+        "Dining",
+        "Restaurants"
+      ],
+      "start": "2026-07-31T16:00:00.000Z",
+      "end": "2026-11-30T10:28:00.000Z",
+      "banks": [
+        {
+          "code": "MPI",
+          "name": "Maybank",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/26fce2dc-d6ab-44ce-9458-9d74c042aeda.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "Maybank Classic Visa",
+          "bank": "MPI",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/143bbf67-3211-495e-876a-b9aff218d298.png"
+        },
+        {
+          "name": "Maybank Gold Visa",
+          "bank": "MPI",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/65b5f39d-fe02-4631-a49f-91855853f099.png"
+        },
+        {
+          "name": "Maybank Visa Platinum",
+          "bank": "MPI",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/6d9c2d3e-3319-4400-ad23-0bc54e75b542.png"
+        },
+        {
+          "name": "Maybank Visa Infinite",
+          "bank": "MPI",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/2297d201-a67a-442c-9ceb-72d4a47b9dcc.png"
+        },
+        {
+          "name": "Maybank Gold Mastercard",
+          "bank": "MPI",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/2959351c-1278-4412-b444-888e721c21e9.png"
+        },
+        {
+          "name": "Maybank Platinum Mastercard",
+          "bank": "MPI",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/64b95629-6293-4f3d-84a8-9ce8ff7c6123.png"
+        },
+        {
+          "name": "⚯ Maybank Manchester United Visa",
+          "bank": "MPI",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/6144a578-c365-43c3-a1bc-1d9f6840286d.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF on Lunch and Dinner Buffet with minimum of two (2) and maximum of ten (10) diners\n• Valid for dine-in transactions only\n• Excludes beverages\n• Advance reservation is required\n---\n# Location\n• Fairmont Hotel, Makati City\n---\n# Links\nhttps://www.maybank.com.ph/en/promotions/m2u/Spectrum-at-Fairmont.page\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/5d3e2592-a294-4d15-b8d4-ced5cedd91d7.webp",
+      "status": "active"
+    },
+    {
+      "id": "6a278d83ff754c4a585cba5d",
+      "name": "50% OFF at Hashi Pan-Asian Restaurant",
+      "merchant": {
+        "name": "Hashi Pan-Asian Restaurant",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/d1cba9a7-78c0-475b-a1b8-0dfc17c03dfa.png"
+      },
+      "categories": [
+        "50% Off",
+        "Dining"
+      ],
+      "start": "2026-05-31T16:00:00.000Z",
+      "end": "2026-12-31T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "SECB",
+          "name": "Security Bank Philippines",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/secb-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "Security Bank Wave Mastercard",
+          "bank": "SECB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/30a0bc39-7c14-4318-80c9-0720002d5898.png"
+        },
+        {
+          "name": "Security Bank Complete Cashback Platinum Mastercard",
+          "bank": "SECB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/e701e310-ee84-40cf-aa39-76b8eb4d6617.png"
+        },
+        {
+          "name": "Security Bank Gold Mastercard",
+          "bank": "SECB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/89ade4ab-0a44-4e10-b39d-20f1ef0df6d1.png"
+        },
+        {
+          "name": "Security Bank Platinum Mastercard",
+          "bank": "SECB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/b2026e36-621e-4f31-b4ec-eba3ac3a8bd9.png"
+        },
+        {
+          "name": "Security Bank World Mastercard",
+          "bank": "SECB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/82cc085f-2afc-49b4-bc03-f29bac6289eb.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF with minimum spend of ₱2,500 and maximum discount of ₱5,000 on total bill\n\n• Valid for dine-in, take-out, and pick up transactions only\n\n• Advance reservation is recommended\n---\n# Other Details\n• All additional fees including service charges, delivery, and taxes will be charged to the cardholder\n---\n# Location\n• Venice Grand Canal Mall, Taguig City\n---\n# Links\nhttps://www.securitybank.com/promos/dining/hashi-pan-asian-restaurant/\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/a62b587b-ad4d-4f47-8b18-fcf4fb5b8673.webp",
+      "status": "active"
+    },
+    {
+      "id": "5bea87bfebd97b9accad5fee",
+      "name": "50% OFF at The Century Seafood Restaurant",
+      "merchant": {
+        "name": "The Century Seafood Restaurant",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/b2fbabd0-6a0f-4531-93b0-05905645ac9f.jpg"
+      },
+      "categories": [
+        "50% Off",
+        "Dining",
+        "Restaurants"
+      ],
+      "start": "2026-08-31T16:00:00.000Z",
+      "end": "2026-09-30T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "EW",
+          "name": "EastWest Bank",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/ew-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "EastWest Platinum Mastercard",
+          "bank": "EW",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/10c0b174-904f-457c-8fa5-97f3d8139b2a.png"
+        },
+        {
+          "name": "EastWest Singapore Airlines KrisFlyer Platinum Mastercard",
+          "bank": "EW",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/235ff04c-6c97-4e6b-88b5-c2fd11f24692.png"
+        },
+        {
+          "name": "EastWest Singapore Airlines KrisFlyer World Mastercard",
+          "bank": "EW",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/6c6196db-79e8-4653-a735-833d87d52c71.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF with minimum spend of ₱5,000 and maximum discount of ₱5,000 on total food and beverage bill\n---\n# Other Details\n• All additional fees including service charges, delivery, and taxes will be charged to the cardholder\n---\n# Location\n• 227 Wilson, San Juan City\n---\n# Links\nhttps://www.eastwestbanker.com/promos/50-savings-century-seafood-restaurant\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/892b7a91-91d2-4871-96b0-72e3d400a69d.webp",
+      "status": "active"
+    },
+    {
+      "id": "af5ca510cb2b061a6a40d57a",
+      "name": "50% OFF at Yakiniku Sudaku",
+      "merchant": {
+        "name": "Yakiniku Sudaku",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/f77f660c-68b9-487e-8e24-10991acc0424.png"
+      },
+      "categories": [
+        "50% Off",
+        "Dining",
+        "Restaurants"
+      ],
+      "start": "2026-08-16T16:00:00.000Z",
+      "end": "2026-10-08T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "SECB",
+          "name": "Security Bank Philippines",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/secb-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "Security Bank Platinum Mastercard",
+          "bank": "SECB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/b2026e36-621e-4f31-b4ec-eba3ac3a8bd9.png"
+        },
+        {
+          "name": "Security Bank World Mastercard",
+          "bank": "SECB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/82cc085f-2afc-49b4-bc03-f29bac6289eb.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF with minimum spend of ₱5,000 and maximum discount of ₱5,000 on total food and beverage bill\n• Valid for dine-in transactions only\n• Advance reservation is recommended\n---\n# Other Details\n• Excludes Alcoholic Beverages and Teishoku Sets\n• Service charge is excluded from discount computation\n---\n# Location\n• UGF Windsor Square, Antonio Arnaiz Avenue Cor. Ponce St. Makati City\n---\n# Links\nhttps://www.securitybank.com/promos/dining/yakiniku-sudaku/\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/5a8f53d6-f688-4b6b-92d8-9021b4d399ba.webp",
+      "status": "active"
+    },
+    {
+      "id": "6a4c31632697735e60ef1e71",
+      "name": "50% OFF at Xin Tian Di",
+      "merchant": {
+        "name": "Xin Tian Di",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/0776978d-fd8b-4f0f-b198-de5034f5bb40.png"
+      },
+      "categories": [
+        "50% Off",
+        "Dining",
+        "Restaurants"
+      ],
+      "start": "2026-06-30T16:00:00.000Z",
+      "end": "2026-09-30T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "SECB",
+          "name": "Security Bank Philippines",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/secb-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "Security Bank Platinum Mastercard",
+          "bank": "SECB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/b2026e36-621e-4f31-b4ec-eba3ac3a8bd9.png"
+        },
+        {
+          "name": "Security Bank World Mastercard",
+          "bank": "SECB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/82cc085f-2afc-49b4-bc03-f29bac6289eb.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF on lunch, dinner, dimsum buffet, and a la carte with minimum of spend of ₱5,000 and maximum discount of ₱5,000\n• Advance reservation is required\n---\n# Other Details\n• Service charge is excluded from discount computation\n---\n# Location\n• Ortigas Ave. corner Asian Development Bank Ave. Ortigas Center, Quezon City\n---\n# Links\nhttps://www.securitybank.com/promos/dining/crowne-plaza-manila-galleria/\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/313fde02-9a0c-4087-8bca-2e169aaf1621.webp",
+      "status": "active"
+    },
+    {
+      "id": "6a4c2f3f61171d55cae96101",
+      "name": "50% OFF at Seven Corners",
+      "merchant": {
+        "name": "Seven Corners",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/a53e9224-9cca-4baa-aa65-6fa7d5ba74e2.png"
+      },
+      "categories": [
+        "50% Off",
+        "Dining",
+        "Restaurants"
+      ],
+      "start": "2026-06-30T16:00:00.000Z",
+      "end": "2026-09-30T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "SECB",
+          "name": "Security Bank Philippines",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/secb-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "Security Bank Platinum Mastercard",
+          "bank": "SECB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/b2026e36-621e-4f31-b4ec-eba3ac3a8bd9.png"
+        },
+        {
+          "name": "Security Bank World Mastercard",
+          "bank": "SECB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/82cc085f-2afc-49b4-bc03-f29bac6289eb.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF on lunch, dinner, dimsum buffet, and a la carte with minimum of spend of ₱5,000 and maximum discount of ₱5,000\n• Advance reservation is required\n---\n# Other Details\n• Service charge is excluded from discount computation\n---\n# Location\n• Ortigas Ave. corner Asian Development Bank Ave. Ortigas Center, Quezon City\n---\n# Links\nhttps://www.securitybank.com/promos/dining/crowne-plaza-manila-galleria/\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/2e8b043b-86f4-491f-9152-963e137ce9c5.webp",
+      "status": "active"
+    },
+    {
+      "id": "93740e8d2c8a6d548cb08460",
+      "name": "B1T1 Filipino Favorites every Tuesday",
+      "merchant": {
+        "name": "George and Onnie’s",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/68814cc6-93ed-4ba2-8913-6e10d4a457ab.png"
+      },
+      "categories": [
+        "Dining"
+      ],
+      "start": "2026-08-03T16:00:00.000Z",
+      "end": "2026-09-29T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "RCBC",
+          "name": "Rizal Commercial Banking Corporation",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/rcbc-logo.png"
+        },
+        {
+          "code": "EW",
+          "name": "EastWest Bank",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/ew-logo.png"
+        },
+        {
+          "code": "PNB",
+          "name": "Philippine National Bank",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/4533ed85-31f1-4a68-82cb-9f62f3388269.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "RCBC JCB Platinum",
+          "bank": "RCBC",
+          "service": "JCB",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/80ddae7e-35a4-4b14-a165-ccc8257b67ed.png"
+        },
+        {
+          "name": "PNB JCB Platinum",
+          "bank": "PNB",
+          "service": "JCB",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/08d7483d-5225-4c19-ac26-caae8c28dea5.png"
+        },
+        {
+          "name": "EastWest JCB Platinum",
+          "bank": "EW",
+          "service": "JCB",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/762a817c-0ee8-404d-98a1-6f69d0f8a028.png"
+        }
+      ],
+      "description": "# Promo Details\n• Buy 1 Take 1 deal on Filipino Favorites every Tuesday\n• One (1) transaction per card per visit per branch per day\n• Valid for dine-in transactions only\n---\n# Location\n• Check the link below to see list of participating branches\n---\n# Links\nhttp://www.specialoffers.jcb/ph/campaign/detail/JCB_G&O/95127/\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/c2f0e204-ba78-481a-871b-d7f611620bd2.webp",
+      "status": "active"
+    },
+    {
+      "id": "a1d8c103e31db13fa75257db",
+      "name": "50% OFF at Circles Event Cafe",
+      "merchant": {
+        "name": "Circles Event Cafe",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/b04fddaf-6017-45bd-ba7c-677b21165ace.png"
+      },
+      "categories": [
+        "50% Off",
+        "Dining",
+        "Restaurants"
+      ],
+      "start": "2026-07-31T16:00:00.000Z",
+      "end": "2026-09-30T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "RCBC",
+          "name": "Rizal Commercial Banking Corporation",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/rcbc-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "RCBC World Mastercard",
+          "bank": "RCBC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/85116093-04df-48b8-9f88-2469bf94cff5.png"
+        },
+        {
+          "name": "RCBC Hexagon Club Priority Mastercard",
+          "bank": "RCBC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/4a4a43f8-a5c8-4ad7-9dfb-b4d1307f41a9.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF on Lunch Buffet with minimum of four (4) and maximum of eight (8) diners\n---\n# Other Details\n• The discount applies to the total bill, including government taxes and service charge\n---\n# Location\n• Lobby Level, Ayala Avenue corner, Makati Ave, Makati City\n---\n# Links\nhttps://rcbccredit.com/promos/CirclesMakatiShangriLa826\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/11e65b75-20f0-4b38-87a9-364daaa81a86.webp",
+      "status": "active"
+    },
+    {
+      "id": "5ec1b30e4437c5542308b1d7",
+      "name": "50% OFF at Hashi Pan-Asian Restaurant",
+      "merchant": {
+        "name": "Hashi Pan-Asian Restaurant",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/d1cba9a7-78c0-475b-a1b8-0dfc17c03dfa.png"
+      },
+      "categories": [
+        "50% Off",
+        "Dining",
+        "Restaurants"
+      ],
+      "start": "2026-07-31T16:00:00.000Z",
+      "end": "2026-12-31T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "MBTC",
+          "name": "Metrobank",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/metrobank-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "Metrobank M Free Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/7d8251a6-c153-45d6-965a-03082c08a066.png"
+        },
+        {
+          "name": "Metrobank Titanium Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/a2268ace-26d2-4fdd-8a1a-8a82fad94c1a.png"
+        },
+        {
+          "name": "Metrobank Rewards Plus Visa Platinum",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/e68ce51d-32b7-4d65-9d9a-58c535b87d4c.png"
+        },
+        {
+          "name": "Metrobank Cashback Visa Platinum",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/c027110b-b8fb-4577-bf25-46c59dc35412.png"
+        },
+        {
+          "name": "Metrobank Platinum Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/9903bbe4-d738-4eb0-8a7a-d2c117356c18.png"
+        },
+        {
+          "name": "Metrobank Toyota Platinum Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/d87697f6-e7d8-470e-84c6-6e1336e10c6a.png"
+        },
+        {
+          "name": "Metrobank Travel Signature Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/ed200da3-4283-4b53-8a4d-1ccd0d0196bd.webp"
+        },
+        {
+          "name": "Metrobank World Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/2a138f81-9f14-4436-a0c3-675e73911896.png"
+        },
+        {
+          "name": "PSBank Credit Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/884920c2-2c48-4c7f-a67a-c9718eebd08d.png"
+        },
+        {
+          "name": "Metrobank Femme Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/7e65ae61-5a20-4f2a-9857-be43f8e8aad1.png"
+        },
+        {
+          "name": "Metrobank Femme Signature Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/59e3e7ad-6a2e-4cc8-a8f9-ef93fb13d7e9.png"
+        },
+        {
+          "name": "Metrobank Vantage Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/2c6693ce-fcd9-4a4c-a893-d85a31bd8f95.png"
+        },
+        {
+          "name": "Metrobank Vantage Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/7d75c534-13f3-4d73-8100-c334b2af15b8.png"
+        },
+        {
+          "name": "Metrobank Travel Platinum Visa",
+          "bank": "MBTC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/95a7d4f1-6537-4815-b550-bf25239c730f.png"
+        },
+        {
+          "name": "Metrobank Toyota Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/6c885d37-7e7a-4035-9769-5a9bdc22b644.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF with minimum spend of ₱2,500 and maximum discount of ₱5,000 on total food bill\n• Valid for dine-in transactions only\n---\n# Other Details\n• Discount is not applicable on platters, drinks, and foods with existing promo\n• All additional fees including service charges, delivery, and taxes will be charged to the cardholder\n---\n# Location\n• Venice Grand, McKinley Hill Dr, Taguig\n• Greenhills Shopping Center, San Juan City\n---\n# Links\nhttps://www.metrobank.com.ph/promos/discounts-at-hashi-pan-asian-restaurant\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/a892368f-266a-4f4a-8246-d2f829902a64.webp",
+      "status": "active"
+    },
+    {
+      "id": "5a36417e3b273fdf43fc667e",
+      "name": "50% OFF at The Grand Kitchen",
+      "merchant": {
+        "name": "The Grand Kitchen by Grand Hyatt Manila",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/93e99e84-866c-41bd-bdf0-39c4e47709f0.png"
+      },
+      "categories": [
+        "50% Off",
+        "Dining",
+        "Restaurants"
+      ],
+      "start": "2026-08-31T16:00:00.000Z",
+      "end": "2026-09-30T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "SECB",
+          "name": "Security Bank Philippines",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/secb-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "Security Bank Platinum Mastercard",
+          "bank": "SECB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/b2026e36-621e-4f31-b4ec-eba3ac3a8bd9.png"
+        },
+        {
+          "name": "Security Bank World Mastercard",
+          "bank": "SECB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/82cc085f-2afc-49b4-bc03-f29bac6289eb.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF on Lunch and Dinner Buffet with minimum of two (2) and maximum of six (6) diners\n• A down payment is required to guarantee seats for a group of ten (10) pax or more\n• Advance reservation is required\n---\n# Other Details\n• The discount applies to the total bill, including government taxes and service charge\n---\n# Location\n• Grand Hyatt Manila, Taguig\n---\n# Links\nhttps://www.eastwestbanker.com/promos/enjoy-50-grand-kitchen\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/d6028fea-45fe-4640-8b1f-1e1e48385753.webp",
+      "status": "active"
+    },
+    {
+      "id": "37f90356b353bf4856ca5444",
+      "name": "B1T1 Rice Bowl every Tuesday",
+      "merchant": {
+        "name": "Wildflour Restaurant",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/70187bc6-c8c9-435b-a056-78cbcdc06e69.jpg"
+      },
+      "categories": [
+        "Dining"
+      ],
+      "start": "2026-08-03T16:00:00.000Z",
+      "end": "2026-09-29T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "RCBC",
+          "name": "Rizal Commercial Banking Corporation",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/rcbc-logo.png"
+        },
+        {
+          "code": "EW",
+          "name": "EastWest Bank",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/ew-logo.png"
+        },
+        {
+          "code": "PNB",
+          "name": "Philippine National Bank",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/4533ed85-31f1-4a68-82cb-9f62f3388269.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "RCBC JCB Platinum",
+          "bank": "RCBC",
+          "service": "JCB",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/80ddae7e-35a4-4b14-a165-ccc8257b67ed.png"
+        },
+        {
+          "name": "PNB JCB Platinum",
+          "bank": "PNB",
+          "service": "JCB",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/08d7483d-5225-4c19-ac26-caae8c28dea5.png"
+        },
+        {
+          "name": "EastWest JCB Platinum",
+          "bank": "EW",
+          "service": "JCB",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/762a817c-0ee8-404d-98a1-6f69d0f8a028.png"
+        }
+      ],
+      "description": "# Promo Details\n• Buy 1 Take 1 deal on Rice Bowls every Tuesday\n• One (1) transaction per card per visit per branch per day\n• Valid for dine-in transactions only\n---\n# Location\n• Check the link below to see list of participating branches\n---\n# Links\nhttp://www.specialoffers.jcb/ph/campaign/detail/JCB_Wildflour/95124/\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/81b7de45-b541-45dd-940c-94f3494ef55e.webp",
+      "status": "active"
+    },
+    {
+      "id": "6a4c3398a08ec7e0926d4588",
+      "name": "50% OFF at The Gallery Bar",
+      "merchant": {
+        "name": "The Gallery Bar",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/0a1df741-5fd9-4fbb-bc94-ca50d522d254.png"
+      },
+      "categories": [
+        "50% Off",
+        "Dining",
+        "Restaurants"
+      ],
+      "start": "2026-06-30T16:00:00.000Z",
+      "end": "2026-09-30T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "SECB",
+          "name": "Security Bank Philippines",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/secb-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "Security Bank Platinum Mastercard",
+          "bank": "SECB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/b2026e36-621e-4f31-b4ec-eba3ac3a8bd9.png"
+        },
+        {
+          "name": "Security Bank World Mastercard",
+          "bank": "SECB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/82cc085f-2afc-49b4-bc03-f29bac6289eb.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF on lunch, dinner, dimsum buffet, and a la carte with minimum of spend of ₱5,000 and maximum discount of ₱5,000\n• Advance reservation is required\n---\n# Other Details\n• Service charge is excluded from discount computation\n---\n# Location\n• Ortigas Ave. corner Asian Development Bank Ave. Ortigas Center, Quezon City\n---\n# Links\nhttps://www.securitybank.com/promos/dining/crowne-plaza-manila-galleria/\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/b99d8942-6d27-4ec5-ae4c-8ed8f055308d.webp",
+      "status": "active"
+    },
+    {
+      "id": "3643fbc5b01bd95a241d5fc0",
+      "name": "50% OFF at HEAT",
+      "merchant": {
+        "name": "HEAT by EDSA Shangri-La",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/f4f75689-cae4-483b-830e-3d5a3dd20aa1.png"
+      },
+      "categories": [
+        "50% Off",
+        "Dining",
+        "Restaurants"
+      ],
+      "start": "2026-09-02T16:00:00.000Z",
+      "end": "2026-10-30T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "BOC",
+          "name": "Bank of Commerce",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/boc-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "BOC Classic Mastercard",
+          "bank": "BOC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/02485c02-4215-448a-8d2a-9edb273baaac.png"
+        },
+        {
+          "name": "BOC Gold Mastercard",
+          "bank": "BOC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/0f80b1a1-d85e-4772-99ab-8556ca680250.png"
+        },
+        {
+          "name": "BOC Platinum Mastercard",
+          "bank": "BOC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/09549392-b042-4f2e-bc33-b0a485117596.png"
+        },
+        {
+          "name": "BOC World Mastercard",
+          "bank": "BOC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/e2699e33-e0a3-48a9-b261-23bc56f94d25.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF on lunch and dinner buffet with minimum of two (2) and maximum of six (6) diners\n\n• Advance reservation is required\n---\n# Other Details\n• The Promo may not be combined with other hotel promos, discounts, and/or privileges\n---\n# Location\n• EDSA Shangri-La, Ortigas Centre, Mandaluyong City\n---\n# Links\nhttps://www.bankcom.com.ph/promotions/the-wait-is-over-heat-50-off-returns-exclusively-with-your-bankcom-credit-card/\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/ae528b96-790e-4208-9d63-477d12c25b08.webp",
+      "status": "active"
+    },
+    {
+      "id": "24addba8728e9182ad07f7f0",
+      "name": "50% OFF at Ramen Ibuki",
+      "merchant": {
+        "name": "Ramen Ibuki",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/16c262fe-e5bf-41cb-b74f-82917955fb3f.png"
+      },
+      "categories": [
+        "50% Off",
+        "Dining",
+        "Restaurants"
+      ],
+      "start": "2026-08-16T16:00:00.000Z",
+      "end": "2026-10-08T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "SECB",
+          "name": "Security Bank Philippines",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/secb-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "Security Bank Platinum Mastercard",
+          "bank": "SECB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/b2026e36-621e-4f31-b4ec-eba3ac3a8bd9.png"
+        },
+        {
+          "name": "Security Bank World Mastercard",
+          "bank": "SECB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/82cc085f-2afc-49b4-bc03-f29bac6289eb.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF with minimum spend of ₱2,500 and maximum discount of ₱2,500 on total food and beverage bill\n• Valid for dine-in transactions only\n• Advance reservation is recommended\n---\n# Other Details\n• Excludes Alcoholic Beverages and Lunch Sets\n• Service charge is excluded from discount computation\n---\n# Location\n• GF, Uptown Parade, 9th Avenue, BGC\n---\n# Links\nhttps://www.securitybank.com/promos/dining/ramen-ibuki/\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/dd90d18c-f809-47e5-98f6-1ca802fb7467.webp",
+      "status": "active"
+    },
+    {
+      "id": "1cdcc801eec5c815626d0ca9",
+      "name": "B1T1 Buffet for only ₱2,488",
+      "merchant": {
+        "name": "Garden Café International Buffet",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/d8e776b5-0c7d-4851-be55-fc6304fa0579.png"
+      },
+      "categories": [
+        "Dining",
+        "Restaurants"
+      ],
+      "start": "2026-07-15T16:00:00.000Z",
+      "end": "2026-12-28T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "MPI",
+          "name": "Maybank",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/26fce2dc-d6ab-44ce-9458-9d74c042aeda.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "Maybank Classic Visa",
+          "bank": "MPI",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/143bbf67-3211-495e-876a-b9aff218d298.png"
+        },
+        {
+          "name": "Maybank Gold Visa",
+          "bank": "MPI",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/65b5f39d-fe02-4631-a49f-91855853f099.png"
+        },
+        {
+          "name": "Maybank Visa Platinum",
+          "bank": "MPI",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/6d9c2d3e-3319-4400-ad23-0bc54e75b542.png"
+        },
+        {
+          "name": "Maybank Visa Infinite",
+          "bank": "MPI",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/2297d201-a67a-442c-9ceb-72d4a47b9dcc.png"
+        },
+        {
+          "name": "Maybank Standard Mastercard",
+          "bank": "MPI",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/78b789a3-8624-4279-833d-876c02962093.png"
+        },
+        {
+          "name": "Maybank Gold Mastercard",
+          "bank": "MPI",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/2959351c-1278-4412-b444-888e721c21e9.png"
+        },
+        {
+          "name": "Maybank Platinum Mastercard",
+          "bank": "MPI",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/64b95629-6293-4f3d-84a8-9ce8ff7c6123.png"
+        },
+        {
+          "name": "⚯ Maybank Manchester United Visa",
+          "bank": "MPI",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/6144a578-c365-43c3-a1bc-1d9f6840286d.png"
+        }
+      ],
+      "description": "# Promo Details\n• Buy 1, Take 1 at Garden Café International Buffet for only ₱2,488 net \n• Advance reservation is required\n• Operational schedule may vary, please confirm with the branch first before you transact\n---\n# Location\n• Timog Avenue, Quezon City\n---\n# Links\nhttps://www.maybank.com.ph/en/promotions/m2u/Luxent-Dining.page\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/30839bcf-f385-4c83-85bb-54df5994a8fd.webp",
+      "status": "active"
+    },
+    {
+      "id": "706c557050f9a2dc39e3898e",
+      "name": "50% OFF at The Cellar",
+      "merchant": {
+        "name": "The Cellar",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/ead08cf7-4e3c-448e-b19b-4c8e0a6e7fe3.png"
+      },
+      "categories": [
+        "50% Off",
+        "Dining",
+        "Restaurants"
+      ],
+      "start": "2026-09-03T15:59:00.000Z",
+      "end": "2026-09-25T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "PNB",
+          "name": "Philippine National Bank",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/4533ed85-31f1-4a68-82cb-9f62f3388269.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "PNB-PAL Mabuhay Miles World Mastercard",
+          "bank": "PNB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/ae4779e5-7cf9-41ac-8a49-12b3b0ce9693.png"
+        },
+        {
+          "name": "PNB-PAL Mabuhay Miles World Elite Mastercard",
+          "bank": "PNB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/448a9b07-606c-4d69-b19d-9c99fc5b9f4a.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF with minimum spend of ₱5,000 and maximum discount of ₱5,000 on total food and beverage bill\n• Valid for dine-in transactions only\n• Advance reservation is required\n---\n# Other Details\n• Excludes Alcoholic Beverages, Lunch Set Menu, and Signature Set Menu\n• Down payment required to guarantee seats for a group of ten (10) pax or more\n---\n# Location\n• 35th Street, Bonifacio Global City, Taguig City\n---\n# Links\nhttps://www.pnb.com.ph/post/enjoy-sumptuous-spanish-dishes-at-50-off\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/7653f386-088e-4b6b-aa6c-8a3ff63c4424.webp",
+      "status": "active"
+    },
+    {
+      "id": "7044d0e4aab134806b4e1e5a",
+      "name": "50% OFF at BOTEJYU",
+      "merchant": {
+        "name": "BOTEJYU",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/2ea30e22-1a5e-4d12-88d9-3388dc285a20.png"
+      },
+      "categories": [
+        "50% Off",
+        "Dining",
+        "Restaurants"
+      ],
+      "start": "2026-08-31T16:00:00.000Z",
+      "end": "2026-09-30T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "AUB",
+          "name": "Asia United Bank",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/aub-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "AUB Gold Mastercard",
+          "bank": "AUB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/908ead28-93db-4627-b4df-ded880e19129.png"
+        },
+        {
+          "name": "AUB Platinum Mastercard",
+          "bank": "AUB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/7d4f87d9-14fb-475e-baf6-fad3a0aa97c3.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF with minimum spend of ₱3,000 and maximum discount of ₱3,000 on total food and beverage bill\n• Valid for dine-in transactions\n---\n# Other Details\n• Except Bundles and LTO\n---\n# Location\n• Check the link below to see list of participating branches\n---\n# Links\nhttps://www.facebook.com/Botejyuph/posts/pfbid0yrLfya3XQn3uYhzvhZHggMMYppzUaYK5S35DVZ29G65eco8mh5Yo8osVkwrxiacRl\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/7171ce11-dcfe-4ea4-850a-a0bbbffbba74.webp",
+      "status": "active"
+    },
+    {
+      "id": "b8dd5f5cfb57c435ebe3818b",
+      "name": "50% OFF at Bizu",
+      "merchant": {
+        "name": "Bizu",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/79df7710-456f-464c-8610-0e6ed759416c.png"
+      },
+      "categories": [
+        "50% Off",
+        "Dining",
+        "Restaurants"
+      ],
+      "start": "2026-09-06T16:00:00.000Z",
+      "end": "2026-10-07T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "RCBC",
+          "name": "Rizal Commercial Banking Corporation",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/rcbc-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "RCBC World Mastercard",
+          "bank": "RCBC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/85116093-04df-48b8-9f88-2469bf94cff5.png"
+        },
+        {
+          "name": "RCBC Visa Infinite",
+          "bank": "RCBC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/a173375c-c7f2-4215-a1a8-276395a7db8e.png"
+        },
+        {
+          "name": "RCBC Hexagon Club Priority Mastercard",
+          "bank": "RCBC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/4a4a43f8-a5c8-4ad7-9dfb-b4d1307f41a9.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF with minimum spend of ₱5,000 and maximum discount of ₱5,000 on total bill\n• Valid for dine-in transactions only\n---\n# Other Details\n• Service charge is excluded from discount computation\n---\n# Location\n• Check the link below to see list of participating branches\n---\n# Links\nhttps://rcbccredit.com/promos/BHAB0826\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/d34ddac0-09ef-4563-8974-1239013af9de.webp",
+      "status": "active"
+    },
+    {
+      "id": "0f41f2bdab12a832efb43868",
+      "name": "50% OFF at Kimpura",
+      "merchant": {
+        "name": "Kimpura",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/766abb29-626c-4fa1-b59a-79f90f957c66.png"
+      },
+      "categories": [
+        "50% Off",
+        "Dining",
+        "Restaurants"
+      ],
+      "start": "2026-09-06T16:00:00.000Z",
+      "end": "2026-10-02T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "MBTC",
+          "name": "Metrobank",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/metrobank-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "Metrobank Platinum Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/9903bbe4-d738-4eb0-8a7a-d2c117356c18.png"
+        },
+        {
+          "name": "Metrobank World Mastercard",
+          "bank": "MBTC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/2a138f81-9f14-4436-a0c3-675e73911896.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF with minimum spend of ₱5,000 and maximum discount of ₱5,000 on total food bill\n• Valid for dine-in transactions only\n• Advance reservation is required\n---\n# Other Details\n• Beverages, Teppanyaki Wagyu Rib-eye steaks, Bento Sets, Teppanyaki combination specials, Ramen lunch, Set Menu and Teishoku meals are not included in the promo\n• All additional fees including service charges and taxes will be charged to the cardholder\n---\n# Location\n• Greenbelt 5, Greenbelt Dr, Makati\n• Trinoma, EDSA Corner North Avenue, Quezon City\n• Greenhills Shopping Center, Ortigas Avenue, San Juan City\n---\n# Links\nhttps://www.metrobank.com.ph/promos/fifty-percent-off-at-kimpura\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/97952629-e01b-4342-bc0e-aac601b62bf2.webp",
+      "status": "active"
+    },
+    {
+      "id": "fbe82b1fabfbc5ffb9c7b5f5",
+      "name": "50% OFF at Al Bacchio",
+      "merchant": {
+        "name": "Al Bacchio",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/15533fcf-3c26-418b-984f-889b5db0cf86.png"
+      },
+      "categories": [
+        "50% Off",
+        "Dining",
+        "Restaurants"
+      ],
+      "start": "2026-09-06T16:00:00.000Z",
+      "end": "2026-10-07T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "RCBC",
+          "name": "Rizal Commercial Banking Corporation",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/rcbc-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "RCBC World Mastercard",
+          "bank": "RCBC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/85116093-04df-48b8-9f88-2469bf94cff5.png"
+        },
+        {
+          "name": "RCBC Visa Infinite",
+          "bank": "RCBC",
+          "service": "Visa",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/a173375c-c7f2-4215-a1a8-276395a7db8e.png"
+        },
+        {
+          "name": "RCBC Hexagon Club Priority Mastercard",
+          "bank": "RCBC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/4a4a43f8-a5c8-4ad7-9dfb-b4d1307f41a9.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF with minimum spend of ₱5,000 and maximum discount of ₱5,000 on total bill\n• Valid for dine-in transactions only\n---\n# Other Details\n• Service charge is excluded from discount computation\n---\n# Location\n• 227 Salcedo, Legazpi Village, Makati\n• Brgy, MiraNila by The Blue Leaf, 26 Mariposa, Quezon City\n---\n# Links\nhttps://rcbccredit.com/promos/BHAB0826\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/1183592f-2c13-4fdb-8118-a81e9427d26f.webp",
+      "status": "active"
+    },
+    {
+      "id": "2a53c0894437085bde6e6e4d",
+      "name": "50% OFF at Makati Diamond Residences",
+      "merchant": {
+        "name": "Makati Diamond Residences",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/88031925-c8a9-4a24-b5b9-c00ebc77c523.png"
+      },
+      "categories": [
+        "50% Off",
+        "Dining",
+        "Restaurants"
+      ],
+      "start": "2026-08-16T16:00:00.000Z",
+      "end": "2026-09-30T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "BOC",
+          "name": "Bank of Commerce",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/boc-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "BOC Classic Mastercard",
+          "bank": "BOC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/02485c02-4215-448a-8d2a-9edb273baaac.png"
+        },
+        {
+          "name": "BOC Gold Mastercard",
+          "bank": "BOC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/0f80b1a1-d85e-4772-99ab-8556ca680250.png"
+        },
+        {
+          "name": "BOC Platinum Mastercard",
+          "bank": "BOC",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/09549392-b042-4f2e-bc33-b0a485117596.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF on Business Lunch Buffet with minimum of two (2) and maximum of six (6) diners\n• Advance reservation is recommended\n---\n# Other Details\n• Promo may not be combined with other hotel promos, discounts, and/or privileges\n---\n# Location\n• Legazpi St, Legazpi Village, Makati City\n---\n# Links\nhttps://www.bankcom.com.ph/promotions/experience-premium-buffet-at-makati-diamond-residences-at-50-off-with-your-bankcom-credit-card/\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/268a3351-6c76-4ec2-9b24-da32cfb37041.webp",
+      "status": "active"
+    },
+    {
+      "id": "eec7ff99e37dc1a6cdc1f44e",
+      "name": "50% OFF at PUTIEN",
+      "merchant": {
+        "name": "PUTIEN",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/8d1a874a-42aa-41e9-8a70-8a9ed64e1b25.png"
+      },
+      "categories": [
+        "50% Off",
+        "Dining",
+        "Restaurants"
+      ],
+      "start": "2026-08-16T16:00:00.000Z",
+      "end": "2026-10-08T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "SECB",
+          "name": "Security Bank Philippines",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/secb-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "Security Bank Platinum Mastercard",
+          "bank": "SECB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/b2026e36-621e-4f31-b4ec-eba3ac3a8bd9.png"
+        },
+        {
+          "name": "Security Bank World Mastercard",
+          "bank": "SECB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/82cc085f-2afc-49b4-bc03-f29bac6289eb.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF with minimum spend of ₱5,000 and maximum discount of ₱5,000 on total food and beverage bill\n• Valid for dine-in transactions only\n• Advance reservation is recommended\n---\n# Other Details\n• Excludes Promotional Items and Set Menus\n• Service charge is excluded from discount computation\n---\n# Location\n• The Podium, 5th floor, Ortigas Mandaluyong City\n• Mitsukoshi BGC, Grand Central Park, North BGC, Taguig City\n---\n# Links\nhttps://www.securitybank.com/promos/dining/putien/\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/0937901e-7b0d-426c-9573-7f9654ba65f8.webp",
+      "status": "active"
+    },
+    {
+      "id": "a03a90cfd015f5c3f00518e3",
+      "name": "50% OFF at A1 Premium Shabu-Shabu",
+      "merchant": {
+        "name": "A1 Premium Shabu-Shabu",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/71efce98-6634-4cc5-9deb-9ae980dca19f.png"
+      },
+      "categories": [
+        "50% Off",
+        "Dining",
+        "Restaurants"
+      ],
+      "start": "2026-08-16T16:00:00.000Z",
+      "end": "2026-10-08T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "SECB",
+          "name": "Security Bank Philippines",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/secb-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "Security Bank Platinum Mastercard",
+          "bank": "SECB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/b2026e36-621e-4f31-b4ec-eba3ac3a8bd9.png"
+        },
+        {
+          "name": "Security Bank World Mastercard",
+          "bank": "SECB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/82cc085f-2afc-49b4-bc03-f29bac6289eb.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF with minimum spend of ₱5,000 and maximum discount of ₱5,000 on total food and beverage bill\n• Valid for dine-in transactions only\n• Advance reservation is recommended\n---\n# Other Details\n• Excludes Lunch Sets\n• Service charge is excluded from discount computation\n---\n# Location\n• Santolan Town Plaza, 276 Santolan Road, San Juan City\n• Greenbelt 3, Ayala Center, Makati City\n• Parqal Mall Diosdado Macapagal Blvd., Parañaque City\n• Verve 1, 26th Street, BGC Fort Bonifacio, Taguig City\n---\n# Links\nhttps://www.securitybank.com/promos/dining/a1-premium-shabu-shabu/\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/b5fdc281-4041-4fe0-944d-066c057b4ef9.webp",
+      "status": "active"
+    },
+    {
+      "id": "e07e9e4bdd7afc180a410108",
+      "name": "50% OFF at Ikoka Yakitori",
+      "merchant": {
+        "name": "Ikoka Yakitori",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/87f09779-5165-4b22-b7ea-4f9c971c6d2f.png"
+      },
+      "categories": [
+        "50% Off",
+        "Dining",
+        "Restaurants"
+      ],
+      "start": "2026-08-16T16:00:00.000Z",
+      "end": "2026-10-08T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "SECB",
+          "name": "Security Bank Philippines",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/secb-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "Security Bank Platinum Mastercard",
+          "bank": "SECB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/b2026e36-621e-4f31-b4ec-eba3ac3a8bd9.png"
+        },
+        {
+          "name": "Security Bank World Mastercard",
+          "bank": "SECB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/82cc085f-2afc-49b4-bc03-f29bac6289eb.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF with minimum spend of ₱5,000 and maximum discount of ₱5,000 on total food and beverage bill\n• Valid for dine-in transactions only\n• Advance reservation is recommended\n---\n# Other Details\n• Excludes Bento and Lunch Sets\n• Service charge is excluded from discount computation\n---\n# Location\n• Ground Level, Two Maridien, Bonifacio South St., 26th Ave., BGC, Taguig\n---\n# Links\nhttps://www.securitybank.com/promos/dining/ikoka-yakitori/\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/894a776b-9185-4b56-83bf-0985c68dd799.webp",
+      "status": "active"
+    },
+    {
+      "id": "9e1c3f60037c478bc81397fc",
+      "name": "B1T1 Desserts every Tuesday",
+      "merchant": {
+        "name": "Osteria Antica",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/ab3c229c-dced-4d86-8799-a15ec7251176.png"
+      },
+      "categories": [
+        "Dining"
+      ],
+      "start": "2026-08-03T16:00:00.000Z",
+      "end": "2026-09-29T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "RCBC",
+          "name": "Rizal Commercial Banking Corporation",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/rcbc-logo.png"
+        },
+        {
+          "code": "EW",
+          "name": "EastWest Bank",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/ew-logo.png"
+        },
+        {
+          "code": "PNB",
+          "name": "Philippine National Bank",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/4533ed85-31f1-4a68-82cb-9f62f3388269.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "RCBC JCB Platinum",
+          "bank": "RCBC",
+          "service": "JCB",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/80ddae7e-35a4-4b14-a165-ccc8257b67ed.png"
+        },
+        {
+          "name": "PNB JCB Platinum",
+          "bank": "PNB",
+          "service": "JCB",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/08d7483d-5225-4c19-ac26-caae8c28dea5.png"
+        },
+        {
+          "name": "EastWest JCB Platinum",
+          "bank": "EW",
+          "service": "JCB",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/762a817c-0ee8-404d-98a1-6f69d0f8a028.png"
+        }
+      ],
+      "description": "# Promo Details\n• Buy 1 Take 1 deal on desserts every Tuesday\n• One (1) transaction per card per visit per branch per day\n• Valid for dine-in transactions only\n---\n# Location\n• Level 6, The Podium, 18 ADB Ave, Ortigas Center, Mandaluyong City\n---\n# Links\nhttp://www.specialoffers.jcb/ph/campaign/detail/JCB_Osteria/95128/\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/75e33459-ccd6-4c4a-a6d8-8236b46817c6.webp",
+      "status": "active"
+    },
+    {
+      "id": "75f674912ade96f6178d29a3",
+      "name": "B1T1 Milkshake every Tuesday",
+      "merchant": {
+        "name": "Pizza Sisters",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/f822952e-6843-4337-9b35-d7eedb2564bf.png"
+      },
+      "categories": [
+        "Dining"
+      ],
+      "start": "2026-08-03T16:00:00.000Z",
+      "end": "2026-09-29T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "RCBC",
+          "name": "Rizal Commercial Banking Corporation",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/rcbc-logo.png"
+        },
+        {
+          "code": "EW",
+          "name": "EastWest Bank",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/ew-logo.png"
+        },
+        {
+          "code": "PNB",
+          "name": "Philippine National Bank",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/4533ed85-31f1-4a68-82cb-9f62f3388269.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "RCBC JCB Platinum",
+          "bank": "RCBC",
+          "service": "JCB",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/80ddae7e-35a4-4b14-a165-ccc8257b67ed.png"
+        },
+        {
+          "name": "PNB JCB Platinum",
+          "bank": "PNB",
+          "service": "JCB",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/08d7483d-5225-4c19-ac26-caae8c28dea5.png"
+        },
+        {
+          "name": "EastWest JCB Platinum",
+          "bank": "EW",
+          "service": "JCB",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/762a817c-0ee8-404d-98a1-6f69d0f8a028.png"
+        }
+      ],
+      "description": "# Promo Details\n• Buy 1 Take 1 deal on Milkshakes every Tuesday\n• One (1) transaction per card per visit per branch per day\n• Valid for dine-in transactions only\n---\n# Location\n• G/F Shangri-la at the fort, 5th Avenue, Cresent Park, Bonifacio Global City, Taguig City\n---\n# Links\nhttp://www.specialoffers.jcb/ph/campaign/detail/JCB_PizzaSisters/95129/\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/d77e9284-c0d9-4f9b-a65e-3770c2e3a200.webp",
+      "status": "active"
+    },
+    {
+      "id": "3d652ceea923406bb8e45885",
+      "name": "B1T1 small plates orders every Tuesday",
+      "merchant": {
+        "name": "Kei Maki",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/d3c4da83-673a-45a1-987f-b0861990c68b.png"
+      },
+      "categories": [
+        "Dining"
+      ],
+      "start": "2026-08-04T04:00:00.000Z",
+      "end": "2026-09-29T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "RCBC",
+          "name": "Rizal Commercial Banking Corporation",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/rcbc-logo.png"
+        },
+        {
+          "code": "EW",
+          "name": "EastWest Bank",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/ew-logo.png"
+        },
+        {
+          "code": "PNB",
+          "name": "Philippine National Bank",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/4533ed85-31f1-4a68-82cb-9f62f3388269.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "RCBC JCB Platinum",
+          "bank": "RCBC",
+          "service": "JCB",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/80ddae7e-35a4-4b14-a165-ccc8257b67ed.png"
+        },
+        {
+          "name": "PNB JCB Platinum",
+          "bank": "PNB",
+          "service": "JCB",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/08d7483d-5225-4c19-ac26-caae8c28dea5.png"
+        },
+        {
+          "name": "EastWest JCB Platinum",
+          "bank": "EW",
+          "service": "JCB",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/762a817c-0ee8-404d-98a1-6f69d0f8a028.png"
+        }
+      ],
+      "description": "# Promo Details\n• Buy 1 Take 1 deal on small plate orders every Tuesday\n• One (1) transaction per card per visit per branch per day\n• Valid for dine-in transactions only\n---\n# Location\n• G/F Verve Tower 1, 26th St, corner 7th Ave, Taguig\n---\n# Links\nhttp://www.specialoffers.jcb/ph/campaign/detail/JCB_Kei/95126/\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/d78dcb34-505f-4169-a787-d841df59bfb4.webp",
+      "status": "active"
+    },
+    {
+      "id": "ff435c7b7d33a0053b7d6019",
+      "name": "B1T1  Regular Scoop Ice Cream",
+      "merchant": {
+        "name": "Farmacy",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/b6ac9efe-c12e-49b4-a486-12240858e4d0.png"
+      },
+      "categories": [
+        "Dining"
+      ],
+      "start": "2026-08-03T16:00:00.000Z",
+      "end": "2026-09-29T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "RCBC",
+          "name": "Rizal Commercial Banking Corporation",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/rcbc-logo.png"
+        },
+        {
+          "code": "EW",
+          "name": "EastWest Bank",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/ew-logo.png"
+        },
+        {
+          "code": "PNB",
+          "name": "Philippine National Bank",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/4533ed85-31f1-4a68-82cb-9f62f3388269.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "RCBC JCB Platinum",
+          "bank": "RCBC",
+          "service": "JCB",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/80ddae7e-35a4-4b14-a165-ccc8257b67ed.png"
+        },
+        {
+          "name": "PNB JCB Platinum",
+          "bank": "PNB",
+          "service": "JCB",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/08d7483d-5225-4c19-ac26-caae8c28dea5.png"
+        },
+        {
+          "name": "EastWest JCB Platinum",
+          "bank": "EW",
+          "service": "JCB",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/762a817c-0ee8-404d-98a1-6f69d0f8a028.png"
+        }
+      ],
+      "description": "# Promo Details\n• Buy 1 Take 1 deal on regular scoop ice cream every Tuesday\n• One (1) transaction per card per visit per branch per day\n• Valid for dine-in transactions only\n---\n# Other Details\n\n---\n# Location\n• G/F Verve Residences Tower 1, 26th St, corner 7th Ave, BGC, Taguig\n---\n# Links\nhttp://www.specialoffers.jcb/ph/campaign/detail/JCB_Farmacy/95130/\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/97f663e5-4d70-4a75-9419-be0ac90d4928.webp",
+      "status": "active"
+    },
+    {
+      "id": "238b78c097039c8a340a6275",
+      "name": "50% OFF at Lore",
+      "merchant": {
+        "name": "Lore by Chef Tatung",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/354222f7-663a-4285-8905-d9961a3f2fe5.png"
+      },
+      "categories": [
+        "50% Off",
+        "Dining",
+        "Restaurants"
+      ],
+      "start": "2026-08-16T16:00:00.000Z",
+      "end": "2026-10-08T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "SECB",
+          "name": "Security Bank Philippines",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/secb-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "Security Bank Platinum Mastercard",
+          "bank": "SECB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/b2026e36-621e-4f31-b4ec-eba3ac3a8bd9.png"
+        },
+        {
+          "name": "Security Bank World Mastercard",
+          "bank": "SECB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/82cc085f-2afc-49b4-bc03-f29bac6289eb.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF with minimum spend of ₱5,000 and maximum discount of ₱5,000 on total food and beverage bill\n• Valid for dine-in transactions only\n• Advance reservation is recommended\n---\n# Other Details\n• Excludes Alcoholic Beverages\n• Service charge is excluded from discount computation\n---\n# Location\n• 3rd Level, One Bonifacio High Street Mall BGC\n---\n# Links\nhttps://www.securitybank.com/promos/dining/lore/\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/9a0e6070-1c31-4185-a719-472aa0b2dc6f.webp",
+      "status": "active"
+    },
+    {
+      "id": "a77214d637ff439766452e5b",
+      "name": "50% OFF at Rosario Pamanang Panlasa",
+      "merchant": {
+        "name": "Rosario Pamanang Panlasa",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/ff29cf3d-f6e5-4c99-aabe-6f07e151dd45.png"
+      },
+      "categories": [
+        "50% Off",
+        "Dining",
+        "Restaurants"
+      ],
+      "start": "2026-08-16T16:00:00.000Z",
+      "end": "2026-10-08T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "SECB",
+          "name": "Security Bank Philippines",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/secb-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "Security Bank Platinum Mastercard",
+          "bank": "SECB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/b2026e36-621e-4f31-b4ec-eba3ac3a8bd9.png"
+        },
+        {
+          "name": "Security Bank World Mastercard",
+          "bank": "SECB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/82cc085f-2afc-49b4-bc03-f29bac6289eb.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF with minimum spend of ₱5,000 and maximum discount of ₱5,000 on total food and beverage bill\n• Valid for dine-in transactions only\n• Advance reservation is recommended\n---\n# Other Details\n• Excludes Promotional Items and Set Meals\n• Service charge is excluded from discount computation\n---\n# Location\n• Upper Ground Floor, Gateway Mall 2 Araneta Center Cubao, Quezon City\n---\n# Links\nhttps://www.securitybank.com/promos/dining/rosario-pamanang-panlasa/\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/ab5c8d06-1e07-461b-b5ca-e72496f237f4.webp",
+      "status": "active"
+    },
+    {
+      "id": "957583447d046a183cfdc717",
+      "name": "B1T1 Hotdogs every Tuesday",
+      "merchant": {
+        "name": "Pink’s Burgers & Hotdogs",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/814569cc-3d06-408b-b89a-bcf76972786b.png"
+      },
+      "categories": [
+        "Dining"
+      ],
+      "start": "2026-08-03T16:00:00.000Z",
+      "end": "2026-09-29T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "RCBC",
+          "name": "Rizal Commercial Banking Corporation",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/rcbc-logo.png"
+        },
+        {
+          "code": "EW",
+          "name": "EastWest Bank",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/ew-logo.png"
+        },
+        {
+          "code": "PNB",
+          "name": "Philippine National Bank",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/4533ed85-31f1-4a68-82cb-9f62f3388269.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "RCBC JCB Platinum",
+          "bank": "RCBC",
+          "service": "JCB",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/80ddae7e-35a4-4b14-a165-ccc8257b67ed.png"
+        },
+        {
+          "name": "PNB JCB Platinum",
+          "bank": "PNB",
+          "service": "JCB",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/08d7483d-5225-4c19-ac26-caae8c28dea5.png"
+        },
+        {
+          "name": "EastWest JCB Platinum",
+          "bank": "EW",
+          "service": "JCB",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/762a817c-0ee8-404d-98a1-6f69d0f8a028.png"
+        }
+      ],
+      "description": "# Promo Details\n• Buy 1 Take 1 deal on Hotdogs every Tuesday\n• One (1) transaction per card per visit per branch per day\n• Valid for dine-in transactions only\n---\n# Location\n• G/F Shangri-la at, 5th Ave., Bonifacio Global City, Taguig City\n• Upper Ground Floor, Player’s Kitchen, Okada Manila\n• ACI Building, 147 H.V. Dela Costa St., Makati City\n---\n# Links\nhttp://www.specialoffers.jcb/ph/campaign/detail/JCB_Pinks/95125/\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/684aa9dc-e8dc-4e04-8329-43f9e44c99e6.webp",
+      "status": "active"
+    },
+    {
+      "id": "efbc57a20bdd91b463171cb7",
+      "name": "50% OFF at Fili Cafe",
+      "merchant": {
+        "name": "Fili Café at Fili Hotel",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/e348ac7c-8469-4fbc-95cd-e7bf57dbfe2a.png"
+      },
+      "categories": [
+        "50% Off",
+        "Dining",
+        "Restaurants"
+      ],
+      "start": "2026-09-09T16:00:00.000Z",
+      "end": "2026-11-10T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "SECB",
+          "name": "Security Bank Philippines",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/secb-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "Security Bank Platinum Mastercard",
+          "bank": "SECB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/b2026e36-621e-4f31-b4ec-eba3ac3a8bd9.png"
+        },
+        {
+          "name": "Security Bank World Mastercard",
+          "bank": "SECB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/82cc085f-2afc-49b4-bc03-f29bac6289eb.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF with minimum spend of ₱3,000 and maximum discount of ₱5,000 on total bill\n• Including lunch and dinner buffet only\n• Valid for dine-in transactions only\n• Advance reservation is recommended\n---\n# Other Details\n• The Cardholder must be present and part of the dining party to be able to avail the discount\n• Proof of card ownership might be requested for verification\n---\n# Location\n• NUSTAR Resort and Casino, Kawit Island, Cebu City\n---\n# Links\nhttps://www.securitybank.com/promos/dining/nustar/\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/6eda5401-3616-49fe-b09c-99fee92addf7.webp",
+      "status": "active"
+    },
+    {
+      "id": "c84e250ea1fa9979170e50c8",
+      "name": "50% OFF at Umisho",
+      "merchant": {
+        "name": "Umisho - NUSTAR",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/98daa073-a5f0-4cde-9640-91ef1bf01054.png"
+      },
+      "categories": [
+        "50% Off",
+        "Dining",
+        "Restaurants"
+      ],
+      "start": "2026-09-09T16:00:00.000Z",
+      "end": "2026-11-10T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "SECB",
+          "name": "Security Bank Philippines",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/secb-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "Security Bank Platinum Mastercard",
+          "bank": "SECB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/b2026e36-621e-4f31-b4ec-eba3ac3a8bd9.png"
+        },
+        {
+          "name": "Security Bank World Mastercard",
+          "bank": "SECB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/82cc085f-2afc-49b4-bc03-f29bac6289eb.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF with minimum spend of ₱3,000 and maximum discount of ₱5,000 on total bill\n• Valid for dine-in transactions only\n• Advance reservation is recommended\n---\n# Other Details\n• The Cardholder must be present and part of the dining party to be able to avail the discount\n• Proof of card ownership might be requested for verification\n---\n# Location\n• NUSTAR Resort and Casino, Kawit Island, Cebu City\n---\n# Links\nhttps://www.securitybank.com/promos/dining/nustar/\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/c2fa3ec2-4f99-4955-aa03-624983fcc2bd.webp",
+      "status": "active"
+    },
+    {
+      "id": "93fe222aaee29d9b52e51449",
+      "name": "50% OFF at Fina",
+      "merchant": {
+        "name": "Fina - NUSTAR",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/5f70e938-be41-4eab-9cf3-2a1d346e2791.png"
+      },
+      "categories": [
+        "50% Off",
+        "Dining",
+        "Restaurants"
+      ],
+      "start": "2026-09-09T16:00:00.000Z",
+      "end": "2026-11-10T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "SECB",
+          "name": "Security Bank Philippines",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/secb-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "Security Bank Platinum Mastercard",
+          "bank": "SECB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/b2026e36-621e-4f31-b4ec-eba3ac3a8bd9.png"
+        },
+        {
+          "name": "Security Bank World Mastercard",
+          "bank": "SECB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/82cc085f-2afc-49b4-bc03-f29bac6289eb.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF with minimum spend of ₱3,000 and maximum discount of ₱5,000 on total bill\n• Valid for dine-in transactions only\n• Advance reservation is recommended\n---\n# Other Details\n• The Cardholder must be present and part of the dining party to be able to avail the discount\n• Proof of card ownership might be requested for verification\n---\n# Location\n• NUSTAR Resort and Casino, Kawit Island, Cebu City\n---\n# Links\nhttps://www.securitybank.com/promos/dining/nustar/\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/d344c821-dc7e-4463-aee9-abbe24055ecb.webp",
+      "status": "active"
+    },
+    {
+      "id": "31d592ea61c46ebe22d7c3ab",
+      "name": "50% OFF at Axis Bar",
+      "merchant": {
+        "name": "Axis Entertainment & Sports Bar",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/e8fc461b-8e2e-49a2-b7cc-6f01e7d2b75c.png"
+      },
+      "categories": [
+        "50% Off",
+        "Dining",
+        "Restaurants"
+      ],
+      "start": "2026-09-09T17:00:00.000Z",
+      "end": "2026-11-10T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "SECB",
+          "name": "Security Bank Philippines",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/secb-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "Security Bank Platinum Mastercard",
+          "bank": "SECB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/b2026e36-621e-4f31-b4ec-eba3ac3a8bd9.png"
+        },
+        {
+          "name": "Security Bank World Mastercard",
+          "bank": "SECB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/82cc085f-2afc-49b4-bc03-f29bac6289eb.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF with minimum spend of ₱3,000 and maximum discount of ₱5,000 on total bill\n• Valid for dine-in transactions only\n• Advance reservation is recommended\n---\n# Other Details\n• The Cardholder must be present and part of the dining party to be able to avail the discount\n• Proof of card ownership might be requested for verification\n---\n# Location\n• NUSTAR Resort and Casino, Kawit Island, Cebu City\n---\n# Links\nhttps://www.securitybank.com/promos/dining/nustar/\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/3fda4718-f603-4a93-a55c-f72e17a9d614.webp",
+      "status": "active"
+    },
+    {
+      "id": "9fc4f66bd3ca41843f9f6401",
+      "name": "50% OFF at Xin Tian Di",
+      "merchant": {
+        "name": "Xin Tian Di - NUSTAR",
+        "logoUrl": "https://media.kaskasanbuddies.com.ph/establishments/8737ab10-1f92-42c4-b4e5-934f2b61249b.png"
+      },
+      "categories": [
+        "50% Off",
+        "Dining",
+        "Restaurants"
+      ],
+      "start": "2026-09-10T15:59:00.000Z",
+      "end": "2026-11-10T15:59:00.000Z",
+      "banks": [
+        {
+          "code": "SECB",
+          "name": "Security Bank Philippines",
+          "icon": "https://media.kaskasanbuddies.com.ph/banks/secb-logo.png"
+        }
+      ],
+      "cards": [
+        {
+          "name": "Security Bank Platinum Mastercard",
+          "bank": "SECB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/b2026e36-621e-4f31-b4ec-eba3ac3a8bd9.png"
+        },
+        {
+          "name": "Security Bank World Mastercard",
+          "bank": "SECB",
+          "service": "Mastercard",
+          "image": "https://media.kaskasanbuddies.com.ph/cards/82cc085f-2afc-49b4-bc03-f29bac6289eb.png"
+        }
+      ],
+      "description": "# Promo Details\n• 50% OFF with minimum spend of ₱3,000 and maximum discount of ₱5,000 on total bill\n• Valid for dine-in transactions only\n• Advance reservation is recommended\n---\n# Other Details\n• The Cardholder must be present and part of the dining party to be able to avail the discount\n• Proof of card ownership might be requested for verification\n---\n# Location\n• NUSTAR Resort and Casino, Kawit Island, Cebu City\n---\n# Links\nhttps://www.securitybank.com/promos/dining/nustar/\n---",
+      "image": "https://media.kaskasanbuddies.com.ph/promos/aa71ce6c-1483-4a07-8c6b-961377b1dec7.webp",
+      "status": "active"
+    }
+  ]
+}
