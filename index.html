@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/cheapy-pub/pwa-icon.svg" />
+    <link rel="icon" type="image/png" sizes="48x48" href="/cheapy-pub/icons/favicon-48.png" />
+    <link rel="apple-touch-icon" href="/cheapy-pub/icons/apple-touch-icon.png" />
+    <!-- maximum-scale=1, user-scalable=no — a real, reported bug this alone
+         fixes: iOS Safari auto-zooms the *whole page* in, the instant any
+         `<input>`/`<select>`/`<textarea>` under 16px receives focus, and
+         doesn't zoom back out on blur — every tap into a form field on this
+         app left the page stuck zoomed in, breaking the native-app illusion
+         hard. `touch-action: manipulation` (style.css) never touched this;
+         it only ever suppressed the unrelated double-tap-to-zoom gesture.
+         This looks like it should cost pinch-zoom too (the exact accessibility
+         regression this app avoided the first time around), but it doesn't
+         in practice: iOS has ignored `user-scalable=no`/`maximum-scale` for
+         pinch-zoom specifically since iOS 10, as an OS-level accessibility
+         override no page can opt back out of — a user can still pinch-zoom
+         this page freely. What iOS *does* still honor from this meta tag is
+         exactly the input-focus auto-zoom this fixes, so this is a real fix
+         with no real accessibility tradeoff, not the reversal it looks like
+         at a glance. -->
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover"
+    />
+    <meta name="theme-color" content="#0E6B46" />
+
+    <title>Cheapy — Private, Offline Budget Tracker</title>
+    <meta
+      name="description"
+      content="Cheapy is a local-only, offline-first budget tracker. Track expenses, credit cards, bills, and savings goals — nothing about your finances ever leaves your device."
+    />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://exho-g.github.io/cheapy-pub/" />
+
+    <!-- Open Graph — a single crawlable/shareable URL (see the router's
+         hash-mode comment for why there's no per-route equivalent of this:
+         this is a client-rendered SPA with no SSR/prerendering, so one
+         static document is the whole indexable/shareable surface). -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Cheapy — Private, Offline Budget Tracker" />
+    <meta
+      property="og:description"
+      content="A local-only, offline-first budget tracker. Track expenses, credit cards, bills, and savings goals — nothing about your finances ever leaves your device."
+    />
+    <meta property="og:url" content="https://exho-g.github.io/cheapy-pub/" />
+    <meta property="og:image" content="https://exho-g.github.io/cheapy-pub/icons/pwa-512.png" />
+    <meta property="og:site_name" content="Cheapy" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Cheapy — Private, Offline Budget Tracker" />
+    <meta
+      name="twitter:description"
+      content="A local-only, offline-first budget tracker. Nothing about your finances ever leaves your device."
+    />
+    <meta name="twitter:image" content="https://exho-g.github.io/cheapy-pub/icons/pwa-512.png" />
+
+    <!-- iOS home-screen install polish — Android/desktop install metadata
+         already comes from the PWA manifest (vite.config.js). -->
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="Cheapy" />
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebApplication",
+        "name": "Cheapy",
+        "url": "https://exho-g.github.io/cheapy-pub/",
+        "description": "A local-only, offline-first budget tracker. Track expenses, credit cards, bills, and savings goals — nothing about your finances ever leaves your device.",
+        "applicationCategory": "FinanceApplication",
+        "operatingSystem": "Any",
+        "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" }
+      }
+    </script>
+    <script type="module" crossorigin src="/cheapy-pub/assets/index-u9Kgq-dD.js"></script>
+    <link rel="stylesheet" crossorigin href="/cheapy-pub/assets/index-BbsrJCfa.css">
+  <link rel="manifest" href="/cheapy-pub/manifest.webmanifest"></head>
+  <body>
+    <div id="app"></div>
+  </body>
+</html>

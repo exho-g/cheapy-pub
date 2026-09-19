@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  A single entry, deliberately — this is a client-rendered SPA using hash-mode
+  routing (see src/router/index.js's own comment on why: avoiding GitHub
+  Pages' deep-link/404 problem) with no server-side rendering or
+  prerendering. Every #/route resolves to this same document from a
+  crawler's perspective, so listing them here wouldn't produce distinct
+  indexable pages.
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://exho-g.github.io/cheapy-pub/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>
